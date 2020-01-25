@@ -23,8 +23,6 @@ Gordo: amondogado
 
 
 == De lo sexual o de la putería BEGIN==
-anafrodita
-
 Angojoso (alguien comúnmente angustiado, afligido)
 Angurriento: persona que orina muy frecuentemente.
 Callonca: prostituta. 
@@ -40,6 +38,8 @@ Entrona: Mujer accesible, coqueta y fácil de conquistar.
 Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.
 Furcia: Prostituta.
 Gabasa: Persona que tiene relaciones sexuales a cambio de dinero.
+Garzón: Joven de vida disoluta.
+Gorrina: Mujer deseada y de mala actitud en su trato social.
 == De lo sexual o de la putería END ==
 
 Viejo
@@ -76,6 +76,8 @@ Estantigua: Persona muy alta que viste mal.
 Fardel: persona desarreglada, desaliñada, fodonga.
 Fargallón: Desaliñado y descuidado en el aseo. Que hace las cosas con descuido.
 Feróstico: Feo en alto grado.
+Gualdrapero: Hombre que anda vestido con andrajos.
+Guaperas: Feo y presumido.
 == De la apariencia física END ==
 
 
@@ -124,13 +126,18 @@ Feróstico: Irritable, desobediente.
 Flatoso: Malhumorado, enojón.
 Fosfórico: Irritable y violento en sumo grado.
 Fuguillas: Persona impaciente que se irrita o encoleriza buscamente.
+Guagualón: Persona inmadura, aniñada o bobalicona.
 == Del carácter  (terquedad, temor, ... ) END ==
 
-== Del chisme ==
+== Del chisme BEGIN ==
 Chafardero: chismoso, Cotilla.
 Conventillero: chismoso, metiche, entrometido.
 Cuchareta: Persona entrometida.
 Cuzo: Persona indiscreta y fisgona.
+Garlero: Persona que habla mucho sin interrupción.
+Goñotudo: Que grita mucho.
+Guaguarero: Argûendero, averiguador, chismoso.
+== Del chisme END ==
 
 == Del olor BEGIN ==
 Apuscaguado (mohoso, maloliente )
@@ -191,6 +198,11 @@ Finca: Persona poco digna de confianza.
 Fullero: Tramposo.
 Ganforro: Bribón, picarón o persona de mal vivir.
 Gañín: Hipócrita.
+Gárrulo: Charlatán hablador.
+Gatallón: Pillo, tramposo.
+Guiñapo: Persona envilecida, degradada.
+Gûizachero: Abogado ruin o revoltoso.
+Gurrumino: Ruin, mezquino.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -281,6 +293,12 @@ Estólido: Bobo, estúpido, falto de razón y discurso.
 Estulto: Necio, tonto.
 Fatuo: Falto de razón o entendimiento.
 Ganapán: Rudo, tosco y de modales groseros. Individuo bruto que transporta bultos.
+Garrulo: Dicho de una persona rústica y ruda.
+Gofo: Necio, ignorante y grosero.
+Guajolote: Bobo, necio o tonto.
+Guanaco: Simple, bobalicón, tonto.
+Guanajo: Bobalicón, tonto.
+Gûey: Persona tonta, mentecata.
 == De la pendejez (y tosquedad, grosería) END ==
 
 Interesantes:
@@ -315,6 +333,9 @@ Cucañero: Que tiene maña para lograr las cosas con poco trabajo o a costa de l
 Enatío: Ocioso y superfluo.
 Fiaca: Perezoso,  indolente, desganado.
 Gandumbas: Dejado, holgazán, gandul.
+Giróvago: Vagabundo.
+Guaje: Necio, flojo.
+Guillote: Holgazán y desaplicado.
 == De la flojez o quizás la inutilidad END ==
 
 == Del olor ==
@@ -406,6 +427,10 @@ Engatado: ladrón.
 Faltrero: Ladrón, ratero.
 Farabusteador: Ladrón.
 Fortacán: Ladrón.
+Garduño: Ratero, que hurta con maña y disimulo.
+Gatera: Muchacho ratero.
+Gerifalte: Hombre que roba.
+Guindilla: Término despectivo para un agente de policía que por prejuicio cutltural es considerado un abusivo, ladrón.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -438,6 +463,7 @@ Engrupido: Soberbio por vanidoso.
 Fifiriche: Melindroso y ridículo.
 Finchado: Orgulloso, engreído o estirado.
 Fufurufo: Persona con aires de grandeza y gustos de la clase media acomodada.
+Gracejo: Payaso.
 == De la mamonería END ==
 
 == Afeminado ==
@@ -452,3 +478,9 @@ Fulero: Persona falsa, embustera o charlatana.
 
 
 == De las modas ==
+
+== De la comida (glotonería) BEGIN ==
+Golletero: Vulgarmente 'gorrón'.
+Gomia: Persona que come demasiado y engulle con presteza y voracidad cuanto le dan.
+Guzgo: Glotón.
+== De la comida (glotonería) END ==
