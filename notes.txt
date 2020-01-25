@@ -35,11 +35,13 @@ Concubina: Prostituta.
 Congalero: prostituta.
 Cucha: Prostituta, ramera, mujer de mala vida.
 Cuclillo: Hombre al que le es infiel su mujer.
+Entradora: Mujer facilona.
+Entrona: Mujer accesible, coqueta y fácil de conquistar.
 
 Viejo
 antañón
 
-== De la apariencia física ==
+== De la apariencia física BEGIN ==
 Aparrada
 Apersonado (de mala presencia)
 Ascoroso: asqueroso.
@@ -65,6 +67,8 @@ Descarrachado: persona descuidada o desaliñada.
 Desemejado: Terrible, desfigurado, muy feo.
 Desguañado: Desarreglado.
 Disforme: Feo, horroroso, monstruoso.
+Esperpento: Persona o cosa vieja, desaliñada o de mal aspecto.
+== De la apariencia física END ==
 
 
 == Del carácter  (terquedad, temor, ... ) ==
@@ -101,6 +105,10 @@ Derramaplaceres: Aguafiestas.
 Derramasolaces: Persona que turba cualquier diversión o regocijo.
 Desaborido: Persona sosa, sin carácter.
 Desdonado: Que carece de gracia o de tino en hacer o decir algo.
+Embolador: Limpiabotas, adulador, lamehuevos.
+Embustidor: Mentiroso.
+Enconado: Persona terca y obstinada en 
+Enodrino: Apocado o tímido.
 
 == Del chisme ==
 Chafardero: chismoso, Cotilla.
@@ -111,7 +119,7 @@ Cuzo: Persona indiscreta y fisgona.
 == Del olor ==
 Apuscaguado (mohoso, maloliente )
 
-== Del ser un culero o grosero o charlatán ==
+== Del ser un culero o grosero o charlatán BEGIN ==
 Arlote: holgazán, bribón
 Arrogador: 
 Anonador: persona que humilla, abate. 
@@ -147,6 +155,15 @@ Deshonrible: Sinvergûenza y despreciable.
 Despachurrado: Persona ridícula y despreciable.
 Deyecto: Persona vil, despreciable.
 Drope: Dicho de un hombre despreciable.
+Echacantos: Persona despreciable e insificante.
+Echacuervos: Hombre embustero y despreciable.
+Enconoso: Persona de mala voluntad con los demás.
+Escomendrijo: Criatura ruin y desmedrada.
+Espácico: Desgraciado o de ma agûero.
+Espernible: Persona despreciable.
+Espurio: persona que no es auténtica. Bastardo, falso o engañoso.
+== Del ser un culero o grosero o charlatán END ==
+
 
 De la vejez:
 Antañón: muy viejo. 
@@ -247,7 +264,6 @@ PIN de Airbnb. Nunca compartas tu codigo con nadie; los em...
 
 
 == De la flojez o quizás la inutilidad ==
-
 Apozolado: floja
 Arlote: holgazán, bribón. 
 Bigardo: vago, holgazán.
@@ -260,13 +276,13 @@ Chota: flojo, pusilánime.
 Cirigallo: persona qué pasa el tiempo yendo y viniendo, sin hacer nada de provecho. 
 Cojonudo: Persona perezosa en extremo o floja.
 Cucañero: Que tiene maña para lograr las cosas con poco trabajo o a costa de los demás.
+Enatío: Ocioso y superfluo.
 
-
-Del olor
+== Del olor ==
 Apuscaguado: que huele mal.
 C2833100
 
-De la locura
+== De la locura ==
 Ateperetado: medio loco. 
 
 8007135555
@@ -288,20 +304,17 @@ Culicunco: Cobarde, temeroso.
 De la briaguez
 Bútago: ebrio, borracho, bebedor. 
 
-De la putería
+== De la putería ==
 Cachirila: ramera. 
 Coja: prostituta.
 
-De la debilidad / cobardía
-
+== De la debilidad / cobardía ==
 Cajeta: cobarde, pendejón, bizcocho. 
 
+== De la ridiculez ==
+Calandraco: persona ridicula.
 
-De la ridiculez
-Calandraco: persona ridicula. 
-
-Del ser castroso
-
+== Del ser castroso BEGIN ==
 Calilla: persona molesta y pesada. 
 Caparra: persona atosigante e impertinente en una conversación o advertencias. 
 Cargante: que carga, molesta, o cansa por su insistencia. 
@@ -317,10 +330,16 @@ Colagogo: Persona que resulta molesta, fastidiosa.
 Conduerma: Persona o asunto que produce más molestas que provecho.
 Coñazo: Persona latosa o insoportable.
 Coñete: codo, tacaño, insoportable.
+Endino: Persona traviesa que da lata.
+Escorchador: Persona fastidiosa, enfadosa.
+Esantagustos: Persona de mal carácter que turba la alegría de los demás.
+== Del ser castroso END ==
 
 
-== De la pretensión ==
+
+== De la pretensión BEGIN ==
 Camelista: persona que practica el camelo -- cosa o noticia que se hace pasar por buena -- y especialmente cosa en la que aparenta conocimientos, virtudes, o cualidades que no posee. 
+== De la pretensión END ==
 
 == Del humor ==
 Cariscedo: áspero, desagradable, enojado. 
@@ -331,6 +350,7 @@ Chupatintas: oficinista de poca categoría.
 Cobista: adulador. 
 Conato: persona con poca determinación.
 Don petate: Ser un mequetrefe, un pobre diablo.
+Embeleco: Persona o cosa fútil, molesta o enfadosa.
 
 
 == De la hueva ==
@@ -341,6 +361,36 @@ Cominero: Dicho de alguien que se preocupa por minucias o nimiedades.
 
 == Del ser un ladrón == 
 Deprendador: ladrón.
+Engatado: ladrón.
 
 == De la locura ==
 Desentido: Loco, necio.
+
+== De la fanfarronería ==
+Echón: Fanfarrón, petulante o jactancioso.
+Elato: Soberbio, altivo o presuntuoso.
+
+== De la pobreza ==
+Egeno: Pobre, escaso o miserable.
+
+== Del que engaña ==
+
+Embaidor: Embaucador, engañador.
+Embelecador: Que engaña con trucos y falsas apariencias.
+
+== De la mamonería ==
+Encastillado: Altivo y soberbio.
+Encopetado: Presumido.
+Engallado: Engreído, altanero o soberbio.
+Engolado: dicho de una persona vanidosa, engreída, altanera.
+Engrupido: Soberbio por vanidoso
+
+== Afeminado ==
+Encolado: Hombre presumido y afeminado.
+
+== De la mentira ==
+Engañabobos: Persona que pretende embaucar o deslumbrar.
+Engañamundo: Engañador.
+Engañapichanga: Charlatán o engañabobos.
+
+== De las modas ==
