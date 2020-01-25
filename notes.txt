@@ -22,7 +22,7 @@ Codo: pichicato
 Gordo: amondogado
 
 
-== De lo sexual o de la putería ==
+== De lo sexual o de la putería BEGIN==
 anafrodita
 
 Angojoso (alguien comúnmente angustiado, afligido)
@@ -37,6 +37,8 @@ Cucha: Prostituta, ramera, mujer de mala vida.
 Cuclillo: Hombre al que le es infiel su mujer.
 Entradora: Mujer facilona.
 Entrona: Mujer accesible, coqueta y fácil de conquistar.
+Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.
+== De lo sexual o de la putería END ==
 
 Viejo
 antañón
@@ -68,10 +70,14 @@ Desemejado: Terrible, desfigurado, muy feo.
 Desguañado: Desarreglado.
 Disforme: Feo, horroroso, monstruoso.
 Esperpento: Persona o cosa vieja, desaliñada o de mal aspecto.
+Estantigua: Persona muy alta que viste mal.
+Fardel: persona desarreglada, desaliñada, fodonga.
+Fargallón: Desaliñado y descuidado en el aseo. Que hace las cosas con descuido.
+Feróstico: Feo en alto grado.
 == De la apariencia física END ==
 
 
-== Del carácter  (terquedad, temor, ... ) ==
+== Del carácter  (terquedad, temor, ... ) BEGIN ==
 Apocoyado: persona temerosa, pusilánime, abatida.
 Argel: persona que no tiene gracia ni inspira simpatía.
 arisco: áspero, de carácter intratable.
@@ -109,6 +115,11 @@ Embolador: Limpiabotas, adulador, lamehuevos.
 Embustidor: Mentiroso.
 Enconado: Persona terca y obstinada en 
 Enodrino: Apocado o tímido.
+Farisaico: hipócrita.
+Farota: Mujer descarada y sin juicio.
+Farotón: persona insolente y desfachatada.
+Feróstico: Irritable, desobediente. 
+== Del carácter  (terquedad, temor, ... ) END ==
 
 == Del chisme ==
 Chafardero: chismoso, Cotilla.
@@ -119,7 +130,7 @@ Cuzo: Persona indiscreta y fisgona.
 == Del olor ==
 Apuscaguado (mohoso, maloliente )
 
-== Del ser un culero o grosero o charlatán BEGIN ==
+== Del ser un culero o grosero o charlatán, delincuente BEGIN ==
 Arlote: holgazán, bribón
 Arrogador: 
 Anonador: persona que humilla, abate. 
@@ -162,6 +173,14 @@ Escomendrijo: Criatura ruin y desmedrada.
 Espácico: Desgraciado o de ma agûero.
 Espernible: Persona despreciable.
 Espurio: persona que no es auténtica. Bastardo, falso o engañoso.
+Estomagante: Que resulta desagradable o antipático.
+Facineroso: Hombre malvado, perverso.
+Falluto: persona traidora, desleal o hipócrita.
+Farruco: Insolente, altanero.
+Felón: Que comete felonía, deslealtad o traición.
+Feral: Cruel, sangriento.
+Fifiriche: Melindroso y ridículo.
+Filautero: Egoísta.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -170,7 +189,7 @@ Antañón: muy viejo.
 Carcamán: viejo pesado, torpe en el andar. 
 Carraspiento: dicho de un anciano despreciable.
 
-== De la pendejez (y tosquedad, grosería) ==
+== De la pendejez (y tosquedad, grosería) BEGIN ==
 adundado: tonto, falto de entendimiento.
 Aguacató: "" (lo anterior)
 agalambado: simple, tonto, bobo, baboso.
@@ -245,7 +264,11 @@ Congo: persona que es utilizada por otros para que haga trabajos que nadie quier
 Demorón: Lento, pausado, tardío.
 Desmanotado: Inútil, torpe.
 Desorejado: Tonto, irresponsable y desobediente.
-Dundo: Dicho de alguien tonto, de poco entendimiento. 
+Dundo: Dicho de alguien tonto, de poco entendimiento.
+Estólido: Bobo, estúpido, falto de razón y discurso.
+Estulto: Necio, tonto.
+Fatuo: Falto de razón o entendimiento.
+== De la pendejez (y tosquedad, grosería) END ==
 
 Interesantes:
 Angurrientos: persona que orina frecuentemente.
@@ -263,7 +286,7 @@ picadill
 PIN de Airbnb. Nunca compartas tu codigo con nadie; los em...
 
 
-== De la flojez o quizás la inutilidad ==
+== De la flojez o quizás la inutilidad BEGIN ==
 Apozolado: floja
 Arlote: holgazán, bribón. 
 Bigardo: vago, holgazán.
@@ -277,6 +300,8 @@ Cirigallo: persona qué pasa el tiempo yendo y viniendo, sin hacer nada de prove
 Cojonudo: Persona perezosa en extremo o floja.
 Cucañero: Que tiene maña para lograr las cosas con poco trabajo o a costa de los demás.
 Enatío: Ocioso y superfluo.
+Fiaca: Perezoso,  indolente, desganado.
+== De la flojez o quizás la inutilidad END ==
 
 == Del olor ==
 Apuscaguado: que huele mal.
@@ -333,6 +358,7 @@ Coñete: codo, tacaño, insoportable.
 Endino: Persona traviesa que da lata.
 Escorchador: Persona fastidiosa, enfadosa.
 Esantagustos: Persona de mal carácter que turba la alegría de los demás.
+Faceto: Persona que quiere hacerse la chistosa, pero no tiene gracia.
 == Del ser castroso END ==
 
 
@@ -359,16 +385,25 @@ Castaña: persona o cosa aburrida o fastidiosa.
 == De los nervios, preocupación ==
 Cominero: Dicho de alguien que se preocupa por minucias o nimiedades.
 
-== Del ser un ladrón == 
+== Del ser un ladrón BEGIN ==
 Deprendador: ladrón.
 Engatado: ladrón.
+Faltrero: Ladrón, ratero.
+Farabusteador: Ladrón.
+== Del ser un ladrón END ==
 
 == De la locura ==
 Desentido: Loco, necio.
 
-== De la fanfarronería ==
+== De la fanfarronería, vanidad, presuntuosidad BEGIN ==
 Echón: Fanfarrón, petulante o jactancioso.
 Elato: Soberbio, altivo o presuntuoso.
+Facistol: Vanidoso, presumido y fanfarrón.
+Fafarachero: Charlatán, fanfarrón y vanidoso.
+Farfantón: Hombre hablador y jactancioso que presume cualidades y valentías.
+Filistrín: persona presumida y afectada.
+== De la fanfarronería, vanidad, presuntuosidad END ==
+
 
 == De la pobreza ==
 Egeno: Pobre, escaso o miserable.
@@ -378,12 +413,14 @@ Egeno: Pobre, escaso o miserable.
 Embaidor: Embaucador, engañador.
 Embelecador: Que engaña con trucos y falsas apariencias.
 
-== De la mamonería ==
+== De la mamonería BEGIN ==
 Encastillado: Altivo y soberbio.
 Encopetado: Presumido.
 Engallado: Engreído, altanero o soberbio.
 Engolado: dicho de una persona vanidosa, engreída, altanera.
-Engrupido: Soberbio por vanidoso
+Engrupido: Soberbio por vanidoso.
+Fifiriche: Melindroso y ridículo.
+== De la mamonería END ==
 
 == Afeminado ==
 Encolado: Hombre presumido y afeminado.
