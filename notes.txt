@@ -38,6 +38,8 @@ Cuclillo: Hombre al que le es infiel su mujer.
 Entradora: Mujer facilona.
 Entrona: Mujer accesible, coqueta y fácil de conquistar.
 Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.
+Furcia: Prostituta.
+Gabasa: Persona que tiene relaciones sexuales a cambio de dinero.
 == De lo sexual o de la putería END ==
 
 Viejo
@@ -119,6 +121,9 @@ Farisaico: hipócrita.
 Farota: Mujer descarada y sin juicio.
 Farotón: persona insolente y desfachatada.
 Feróstico: Irritable, desobediente. 
+Flatoso: Malhumorado, enojón.
+Fosfórico: Irritable y violento en sumo grado.
+Fuguillas: Persona impaciente que se irrita o encoleriza buscamente.
 == Del carácter  (terquedad, temor, ... ) END ==
 
 == Del chisme ==
@@ -127,8 +132,9 @@ Conventillero: chismoso, metiche, entrometido.
 Cuchareta: Persona entrometida.
 Cuzo: Persona indiscreta y fisgona.
 
-== Del olor ==
+== Del olor BEGIN ==
 Apuscaguado (mohoso, maloliente )
+== Del olor END ==
 
 == Del ser un culero o grosero o charlatán, delincuente BEGIN ==
 Arlote: holgazán, bribón
@@ -181,13 +187,19 @@ Felón: Que comete felonía, deslealtad o traición.
 Feral: Cruel, sangriento.
 Fifiriche: Melindroso y ridículo.
 Filautero: Egoísta.
+Finca: Persona poco digna de confianza.
+Fullero: Tramposo.
+Ganforro: Bribón, picarón o persona de mal vivir.
+Gañín: Hipócrita.
 == Del ser un culero o grosero o charlatán END ==
 
 
-De la vejez:
+== De la vejez BEGIN ==
 Antañón: muy viejo. 
 Carcamán: viejo pesado, torpe en el andar. 
 Carraspiento: dicho de un anciano despreciable.
+Gagá: Anciaco de poco entendimiento y bajo control de su lengua. Persona anticuada y que huele a rancio.
+== De la vejez END ==
 
 == De la pendejez (y tosquedad, grosería) BEGIN ==
 adundado: tonto, falto de entendimiento.
@@ -268,6 +280,7 @@ Dundo: Dicho de alguien tonto, de poco entendimiento.
 Estólido: Bobo, estúpido, falto de razón y discurso.
 Estulto: Necio, tonto.
 Fatuo: Falto de razón o entendimiento.
+Ganapán: Rudo, tosco y de modales groseros. Individuo bruto que transporta bultos.
 == De la pendejez (y tosquedad, grosería) END ==
 
 Interesantes:
@@ -301,6 +314,7 @@ Cojonudo: Persona perezosa en extremo o floja.
 Cucañero: Que tiene maña para lograr las cosas con poco trabajo o a costa de los demás.
 Enatío: Ocioso y superfluo.
 Fiaca: Perezoso,  indolente, desganado.
+Gandumbas: Dejado, holgazán, gandul.
 == De la flojez o quizás la inutilidad END ==
 
 == Del olor ==
@@ -312,12 +326,13 @@ Ateperetado: medio loco.
 
 8007135555
 
-De la debilidad (pusilanimidad, servil)
-
+== De la debilidad (pusilanimidad, servil) BEGIN ==
 Belitre: Débil, enclenque. ￼ 2. Pícaro, ruin y de viles costumbres.
 Calzonazos: hombre débil que se deja dominar, especialmente por una mujer. 
 Cansón: aburrido, inestable, inconstante. 
 Chupamedia: persona aduladora, servil. 
+Gansarón: Hombre alto, flaco y enclenque.
+== De la debilidad (pusilanimidad, servil) END ==
 
  
 == Del ser un cobarde o pussy ==
@@ -390,6 +405,7 @@ Deprendador: ladrón.
 Engatado: ladrón.
 Faltrero: Ladrón, ratero.
 Farabusteador: Ladrón.
+Fortacán: Ladrón.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -420,14 +436,19 @@ Engallado: Engreído, altanero o soberbio.
 Engolado: dicho de una persona vanidosa, engreída, altanera.
 Engrupido: Soberbio por vanidoso.
 Fifiriche: Melindroso y ridículo.
+Finchado: Orgulloso, engreído o estirado.
+Fufurufo: Persona con aires de grandeza y gustos de la clase media acomodada.
 == De la mamonería END ==
 
 == Afeminado ==
 Encolado: Hombre presumido y afeminado.
 
-== De la mentira ==
+== De la mentira BEGIN ==
 Engañabobos: Persona que pretende embaucar o deslumbrar.
 Engañamundo: Engañador.
 Engañapichanga: Charlatán o engañabobos.
+Fulero: Persona falsa, embustera o charlatana.
+== De la mentira END ==
+
 
 == De las modas ==
