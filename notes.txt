@@ -303,6 +303,7 @@ Mogrollo: Aprovechado o gorrón.
 Móndrigo: Dicho de una persona despreciable.
 Nefando: Persona de la que no se puede hablar sin repugnancia u horror.
 Ñiquiñaque: Persona muy despreciable.
+Ocote: Persona que enciende discordias o genera alarmas innecesarias o falsas.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -433,6 +434,8 @@ Mostrenco: Persona que, por carente de gracia o torpe, provoca desprecio o enfad
 Nango: Dicho de alguien tonto.
 Ñame: Tonto, inculto, maleducado.
 Obtuso: Torpe, tardo en comprender.
+Orate: Persona de poco juicio, moderación y prudencia.
+Otario: Tonto, fácil de embaucar.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -450,6 +453,7 @@ Tacaño, miserable.
 Durañón: Persona tacaña, miserable.
 Lechero: Avaro, cicatero.
 Mezquino: Tacaño, miserable, avaro, ruin.
+Ocotudo: Mezquino, avaro, escaso.
 == De lo codo END ==
 
 
@@ -634,6 +638,7 @@ Farfantón: Hombre hablador y jactancioso que presume cualidades y valentías.
 Filistrín: persona presumida y afectada.
 Jallo: Presumido, ostentoso.
 Matasiete: Fanfarrón.
+Opado: Presumido.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
