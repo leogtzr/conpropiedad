@@ -54,6 +54,10 @@ Mesalina: Ramera, prostituta.
 Mondaria: Prostituta.
 Mozcorra: Prostituta.
 Mujercilla: Prostituta.
+Pelleja: Prostituta.
+Pelota: Prostituta.
+Pendanga: Prostituta.
+Pendón: Prostituta.
 == De lo sexual o de la putería END ==
 
 
@@ -107,6 +111,7 @@ Molso: Desgarbado, desaseado, sucio.
 Nabo: Referido a algo o alguien muy feo.
 Nejo: Dicho de alguien sucio, desaseado.
 Ñomblo: Obeso.
+Pañoso: Dicho de una persona asquerosa y vestida de remiendos y andrajos.
 == De la apariencia física END ==
 
 
@@ -178,6 +183,7 @@ Majaganzas: Hombre pesado y necio.
 Mindango: Hipócrita, embustero, socarrón.
 Ñampeado: Loco, que ha perdido la razón.
 Ñaño: Consentido, mimado en demasía.
+Pato: Persona sosa, sin gracia.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -304,6 +310,8 @@ Móndrigo: Dicho de una persona despreciable.
 Nefando: Persona de la que no se puede hablar sin repugnancia u horror.
 Ñiquiñaque: Persona muy despreciable.
 Ocote: Persona que enciende discordias o genera alarmas innecesarias o falsas.
+Papalón: Cínico, sin vergûenza.
+Peliagudo: Dicho de una persona sutil o mañosa.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -436,6 +444,20 @@ Nango: Dicho de alguien tonto.
 Obtuso: Torpe, tardo en comprender.
 Orate: Persona de poco juicio, moderación y prudencia.
 Otario: Tonto, fácil de embaucar.
+Pandorgo: Tonto, simple, lerdo.
+Pañuso: Dicho de una persona torpe, falta de habilidad.
+Papanatas: Persona simple y crédula.
+Paparote: Bobo o papanatas.
+Paparulo: Torpe, ignorante, ingenuo.
+Papatoste: Papanatas, fácil de engañar.
+Papirote: Persona tonta, boba, corta de ingenio.
+Papo: Tonto.
+Pavisoso: Bobo, sin gracia ni arte.
+Pavo: Hombre soso e incauto.
+Payo: Campesino ignorante y rudo.
+Peal: Persona inútil, torpe, despreciable.
+Pelgar: Hombre sin habilidad o ocupación.
+Penitent: Eufemismo de tonto o pendejo.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -454,6 +476,7 @@ Durañón: Persona tacaña, miserable.
 Lechero: Avaro, cicatero.
 Mezquino: Tacaño, miserable, avaro, ruin.
 Ocotudo: Mezquino, avaro, escaso.
+Parvífico: Tacaño.
 == De lo codo END ==
 
 
@@ -490,6 +513,12 @@ Lirón: Persona dormilona, holgazana.
 Maganzón: Holgazán.
 Majá: Holgazán.
 Mogollón: Holgazán.
+Pajoso: Dicho de una persona fanfarrona.
+Pamposado: Holgazán.
+Papalón: Perezoso.
+Pelangoche: Persona inútil y despreciable.
+Pelele: Persona simple, inútil y manipulable.
+Penco: Persona inútil
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -582,6 +611,7 @@ Matamoros: Bravucón.
 Molón: Molesto, fastidioso.
 Molonquero: Fastidioso, majadero.
 Moscón: Hombre fastidioso, pesado o molesto.
+Pelma: Persona molesta e inoportuna.
 == Del ser castroso END ==
 
 
@@ -598,12 +628,15 @@ Camelista: persona que practica el camelo -- cosa o noticia que se hace pasar po
 Cariscedo: áspero, desagradable, enojado.
 Casauite: persona de mal carácter.
 
-== Del poco valor / no valer verga / adulador / pocos huevos ==
+== Del poco valor / no valer verga / adulador / pocos huevos BEGIN ==
 Chupatintas: oficinista de poca categoría.
 Cobista: adulador.
 Conato: persona con poca determinación.
 Don petate: Ser un mequetrefe, un pobre diablo.
 Embeleco: Persona o cosa fútil, molesta o enfadosa.
+Pacota: Persona insignificante o de escaso valor.
+Patoso: Dicho de una persona que, sin serlo, presume de chistosa y aguda; inhábil.
+== Del poco valor / no valer verga / adulador / pocos huevos END ==
 
 
 == De la hueva ==
@@ -624,6 +657,7 @@ Gerifalte: Hombre que roba.
 Guindilla: Término despectivo para un agente de policía que por prejuicio cutltural es considerado un abusivo, ladrón.
 Lunfardo: Ratero, chulo o rufián.
 Marrullero: Embaucador astuto que enreda a la gente.
+Pechador: estafador.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -639,6 +673,8 @@ Filistrín: persona presumida y afectada.
 Jallo: Presumido, ostentoso.
 Matasiete: Fanfarrón.
 Opado: Presumido.
+Pajoso: Dicho de una persona fanfarrona.
+Papelón: Dicho de una persona que ostenta y aparenta más de lo que es.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
