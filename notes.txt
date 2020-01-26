@@ -51,6 +51,7 @@ Lúbrico: Libidinoso, lascivo.
 Lumia: Prostituta.
 Madama: Prostituta.
 Magalla: Prostituta.
+Mariol: Maricón.
 == De lo sexual o de la putería END ==
 
 
@@ -96,6 +97,9 @@ Hadrubado: jorobado.
 Hético: individuo muy flaco, casi en los huesos.
 Lardoso: Grasiento.
 Macaco: Feo, deforme.
+Malaje: Persona desagradable, que tiene mala sombra.
+Malevo: Persona vulgar, de barrio.
+Mantillón: Desaliñado, sucio.
 == De la apariencia física END ==
 
 
@@ -163,6 +167,7 @@ Lambón: Adulador, servil. De uso común entre gente muy vulgar.
 Lépero: Ordinario, desvergonzado, obsceno, atrevido.
 Loquesco: Alocado, de poco juicio.
 Mafufo: Hombre loco.
+Majaganzas: Hombre pesado y necio.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -270,6 +275,10 @@ Macarra: Vulgar, de mal gusto.
 Maco: Malo, pícaro, ruin.
 Magancés: Traidor o malo.
 Maharón: Desgraciado.
+Malmirado: Descortés, desconsiderado.
+Mangajo: Persona despreciable.
+Marranalla: Gente baja, ruin, de mal proceder.
+Matamoro: Bravucón.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -378,6 +387,10 @@ Jelenco: Tonto, simple, baboso.
 Lerdo: Pesado y torpe en el andar. Tardo o lento para comprender algo.
 Lipendi: Tonto, bobo.
 Madero: Persona muy necia, torpe e insesible.
+Maje: Tonto.
+Mamacallos: Hombre tonto.
+Mameluco: Hombre necio, bobo.
+Mamerto: Persona que tiene escasa inteligencia o habilidad.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -469,6 +482,8 @@ Cuculmeque: persona miedosa, cobarderde.
 Culicunco: Cobarde, temeroso.
 Huilón: cobarde.
 Liebre: Hombre tímido y cobarde.
+Mamita: Persona cobarde, miedosa, mimosa.
+Maula: Cobarde.
 == Del ser un cobarde o pussy END ==
 
 
@@ -514,6 +529,7 @@ Faceto: Persona que quiere hacerse la chistosa, pero no tiene gracia.
 Incordio: persona incómoda, agobiante o muy molesta.
 Jarocho: Persona de modales bruscos, descompuestos y algo insolentes.
 Lapa: Persona excesivamente encimosa e inoportuna y que sigue insistentemente a otra.
+Maza: Persona pesada y molesta en su conversación y trato.
 == Del ser castroso END ==
 
 
@@ -555,6 +571,7 @@ Gatera: Muchacho ratero.
 Gerifalte: Hombre que roba.
 Guindilla: Término despectivo para un agente de policía que por prejuicio cutltural es considerado un abusivo, ladrón.
 Lunfardo: Ratero, chulo o rufián.
+Marrullero: Embaucador astuto que enreda a la gente.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -568,6 +585,7 @@ Fafarachero: Charlatán, fanfarrón y vanidoso.
 Farfantón: Hombre hablador y jactancioso que presume cualidades y valentías.
 Filistrín: persona presumida y afectada.
 Jallo: Presumido, ostentoso.
+Matasiete: Fanfarrón.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
