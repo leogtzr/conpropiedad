@@ -75,6 +75,7 @@ Quillotra: Amiga, amante.
 Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.
 Rabiza: Ramera muy despreciable.
 Suripanta: Prostituta.
+Taita: Rufián, hombre que explota prostitutas.
 == De lo sexual o de la putería END ==
 
 
@@ -138,6 +139,7 @@ Quirina: Persona muy flaca.
 Rompegalas: Persona desaliñada.
 Rotoso: Andrajoso.
 Sierpe: Persona muy fea.
+Tarasco: Mujer fea,descarada o de caracter violento.
 == De la apariencia física END ==
 
 
@@ -213,6 +215,8 @@ Pato: Persona sosa, sin gracia.
 Pingajo: Persona dejada, maltratada, deteriorada.
 Querrequerre: Persona que siempre está de mal humor.
 Relamido: Descarado, desfachatado.
+Tesonero: Testarudo, terco.
+Testarrón: Testarudo.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -241,6 +245,7 @@ Pitoflero: Persona chismosa o entrometida.
 Refitolero: Entrometido.
 Sacón: Chismoso, entrometido.
 Safrisco: Entrometido.
+Tarabilla: Persona que habla mucho, muy deprisa y desordenadamente.
 == Del chisme END ==
 
 
@@ -364,6 +369,9 @@ Rumiajo: Persona pequeña y ruin.
 Sicofante: Calumniador, impostor.
 Soleta: Mujer descarada.
 Sórdido: Miserable, indecente o escandoloso.
+Tagarote: Aprovechado, que saca beneficio sin escrúpulos.
+Taita: Rufián.
+Tartufo: Dicho de alguien hipócrita, falso.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -530,6 +538,11 @@ Sopete: Tonto.
 Soplagaitas: Persona tonta o estúpida.
 Soplapollas: Persona tonta, estúpida.
 Suato: Tonto.
+Tarambana: Dicho de alguien de poco juicio, aturdido o irreflexivo.
+Tarúpido: Compuesto de tarado y estúpido. Persona de ideas absurdas y no muy lista.
+Tatarate: Dicho de una persona que está atontada o actua de manera alocada.
+Terenco: Tonto.
+Tetunte: Persona tonta.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -552,6 +565,7 @@ Parvífico: Tacaño.
 Pesetero: Dicho de una persona ruin, tacaña, avariciosa.
 Rácano: Tacaño, avaro.
 Rozavillón: Que tiene por hábito comer a costa ajena.
+Tecuco: Avaro, mezquino, roñoso.
 == De lo codo END ==
 
 
@@ -603,6 +617,9 @@ Rompepoyos: Persona holgazana.
 Roncero: Tardo, perezoso.
 Sebudo: Perezoso, tardo.
 Sobón: Holgazán, remolón.
+Telegón: Flojonazo, indolente.
+Tanganero: Holgazán, gandul.
+Tapalcate: Persona buena para nada y a quien nadie aprecia.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -630,6 +647,7 @@ Lacio: Flojo, débil, sin vigor.
 Lánguido: Flaco, débil, fatigado.
 Ñecla: Débil, enclenque.
 Poncho: Manso, perezoso, dejado.
+Tilico: Flaco, enclenque.
 == De la debilidad (pusilanimidad, servil) END ==
 
 
@@ -647,6 +665,7 @@ Mamita: Persona cobarde, miedosa, mimosa.
 Maula: Cobarde.
 Quegua: Cobarde, pusilánime.
 Semillón: Sinónimo de cobarde.
+Tilico: Tonto, cobarde, pendejo.
 == Del ser un cobarde o pussy END ==
 
 
@@ -713,6 +732,7 @@ Rayente: Dicho de una persona fastidiosa.
 Repalojero: Muy impertinente, molesto.
 Repipí: Dicho de un niño pedante.
 Sayagués: Persona tosca y grosera.
+Tábano: Persona molesta o pesada.
 == Del ser castroso END ==
 
 
@@ -812,6 +832,7 @@ Gracejo: Payaso.
 Pudibundo: Mojigato, exageradamente pudoroso.
 Resabido: Pedante.
 Runflante: Arrogante, orgulloso.
+Tapudo: Petulante.
 == De la mamonería END ==
 
 == Afeminado ==
