@@ -46,7 +46,13 @@ Halconera: mujer provocativa e insinuante.
 Hetera: mujer facil, de cascos ligeros.
 Huilón: prostituto.
 Hurgamandero: persona que se vende sexualmente.
+Jinetera: Persona que busca a sus clientes entre extranjeros.
+Lúbrico: Libidinoso, lascivo.
+Lumia: Prostituta.
 == De lo sexual o de la putería END ==
+
+
+
 
 Viejo
 antañón
@@ -86,8 +92,12 @@ Gualdrapero: Hombre que anda vestido con andrajos.
 Guaperas: Feo y presumido.
 Hadrubado: jorobado.
 Hético: individuo muy flaco, casi en los huesos.
-
+Lardoso: Grasiento.
 == De la apariencia física END ==
+
+
+
+
 
 
 == Del carácter (terquedad, temor, ... ) BEGIN ==
@@ -142,7 +152,17 @@ Hadario: desdichado.
 Ideático: loco, maniático, de ideas extravagantes.
 Inameno: persona poco agradable o divertida.
 Inconcino: desordenado, descompuesto.
+Insulso: Se dice de la persona que carece de gracia y viveza.
+Intemperado: Inmoderado, excesivo.
+Inverecudo: Que no tiene vergûenza.
+Jicaque: Dicho de una persona huraña, retraída y poco sociable.
+Lambón: Adulador, servil. De uso común entre gente muy vulgar.
+Lépero: Ordinario, desvergonzado, obsceno, atrevido.
+Loquesco: Alocado, de poco juicio.
 == Del carácter (terquedad, temor, ... ) END ==
+
+
+
 
 == Del chisme BEGIN ==
 Chafardero: chismoso, Cotilla.
@@ -154,11 +174,20 @@ Goñotudo: Que grita mucho.
 Guaguarero: Argûendero, averiguador, chismoso.
 Harbullista: persona que habla deprisa y atropelladamente.
 Hurguete: persona que hurga o averigua lo - [ ] secreto.
+Lenguaz: Que habla mucho, con impertinencia y necedad.
+Logorreico: Hablantín, charlatán.
 == Del chisme END ==
+
+
+
+
 
 == Del olor BEGIN ==
 Apuscaguado (mohoso, maloliente )
 == Del olor END ==
+
+
+
 
 == Del ser un culero o grosero o charlatán, delincuente BEGIN ==
 Arlote: holgazán, bribón
@@ -225,7 +254,18 @@ Hombracho: hombre grosero o despreciable.
 Hortera: vulgar y de mal gusto.
 Ímprobo: falto de honradez, malvado.
 Indino: dicho de una persona traviesa o descarada.
+Improbo: Malvado, falto de honradez.
+Infecto: Sucio, repugnante, abyecto.
+Inicuo: Mavado, injusto.
+Jayán: Gañán, persona tosca y grosera.
+Jifero: Sucio, soez, mal hablado.
+Lángara: Persona que no es digna de confianza.
+Logrero: Persona que busca sacar rovecho por cualquier cosa.
 == Del ser un culero o grosero o charlatán END ==
+
+
+
+
 
 
 == De la vejez BEGIN ==
@@ -323,6 +363,11 @@ Guanajo: Bobalicón, tonto.
 Gûey: Persona tonta, mentecata.
 Incrúspido: desmayado, torpe, desviado, descentrado. 
 Indocto: ignorante, inculto.
+Intonso: Ignorante, inculto, tosco.
+Jabato: Persona tosca, inculta.
+Jelenco: Tonto, simple, baboso.
+Lerdo: Pesado y torpe en el andar. Tardo o lento para comprender algo.
+Lipendi: Tonto, bobo.
 == De la pendejez (y tosquedad, grosería) END ==
 
 Interesantes:
@@ -331,11 +376,18 @@ Baldonada: prostituta.
 
 
 
-== De lo codo ==
+== De lo codo BEGIN ==
 Pichicato.
 Cerracatín: tacaño, miserable.
 Tacaño, miserable.
 Durañón: Persona tacaña, miserable.
+Lechero: Avaro, cicatero.
+== De lo codo END ==
+
+
+
+
+
 
 picadill
 
@@ -362,7 +414,13 @@ Hobachón: perezoso u holgazán.
 Ignavo: flojo.
 Indolente: flojo, perezoso.
 Inerrante: flojo y sin movimiento.
+Laxo: Flojo.
+Lirón: Persona dormilona, holgazana.
 == De la flojez o quizás la inutilidad END ==
+
+
+
+
 
 == Del olor ==
 Apuscaguado: que huele mal.
@@ -380,15 +438,28 @@ Cansón: aburrido, inestable, inconstante.
 Chupamedia: persona aduladora, servil.
 Gansarón: Hombre alto, flaco y enclenque.
 Hominicaco: hombre pusilánime e insignificante moral o físicamente.
-
+Lábil: Poco firme en sus decisiones. Frágil, débil, caduco.
+Lacio: Flojo, débil, sin vigor.
+Lánguido: Flaco, débil, fatigado.
 == De la debilidad (pusilanimidad, servil) END ==
 
-== Del ser un cobarde o pussy ==
+
+
+
+
+== Del ser un cobarde o pussy BEGIN ==
 Calcillas: hombre tímido o cobarde.
 Cañuto: soplón.
 Cuculmeque: persona miedosa, cobarderde.
 Culicunco: Cobarde, temeroso.
 Huilón: cobarde.
+Liebre: Hombre tímido y cobarde.
+== Del ser un cobarde o pussy END ==
+
+
+
+
+
 
 De la briaguez
 Bútago: ebrio, borracho, bebedor.
@@ -426,7 +497,13 @@ Escorchador: Persona fastidiosa, enfadosa.
 Esantagustos: Persona de mal carácter que turba la alegría de los demás.
 Faceto: Persona que quiere hacerse la chistosa, pero no tiene gracia.
 Incordio: persona incómoda, agobiante o muy molesta.
+Jarocho: Persona de modales bruscos, descompuestos y algo insolentes.
+Lapa: Persona excesivamente encimosa e inoportuna y que sigue insistentemente a otra.
 == Del ser castroso END ==
+
+
+
+
 
 
 
@@ -462,6 +539,7 @@ Garduño: Ratero, que hurta con maña y disimulo.
 Gatera: Muchacho ratero.
 Gerifalte: Hombre que roba.
 Guindilla: Término despectivo para un agente de policía que por prejuicio cutltural es considerado un abusivo, ladrón.
+Lunfardo: Ratero, chulo o rufián.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -474,6 +552,7 @@ Facistol: Vanidoso, presumido y fanfarrón.
 Fafarachero: Charlatán, fanfarrón y vanidoso.
 Farfantón: Hombre hablador y jactancioso que presume cualidades y valentías.
 Filistrín: persona presumida y afectada.
+Jallo: Presumido, ostentoso.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
@@ -517,6 +596,9 @@ Gomia: Persona que come demasiado y engulle con presteza y voracidad cuanto le d
 Guzgo: Glotón.
 Heliogábalo: goloso.
 Incróspido: perdona descentrada, desviada.
+Lambucio: Glotón, goloso.
+Lamerón: Goloso.
+Laminero: Goloso.
 == De la comida (glotonería) END ==
 
 
