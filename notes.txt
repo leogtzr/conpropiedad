@@ -63,6 +63,8 @@ Perico: Persona, especialmente mujer, que gusta de callejear y es a veces de vid
 Pindanga: Mujer callejera.
 Pípila: Prostituta.
 Pipusa: Mujerzuela.
+Pitoflojo: Que se acuesta con cualquiera.
+Pizcapocha: Piruja, ramera.
 == De lo sexual o de la putería END ==
 
 
@@ -121,6 +123,8 @@ Picio: Sujeto muy feo.
 Pigmeo: Muy pequeño.
 Pijo: Dicho de una persona que en su vestimenta, modales, lenguaje, entre otras cosas, manifiesta gustos propios de una clase social acomodada sin pertenecer a ella.
 Pilongo: Dicho de una persona extremadamente alta y flaca.
+Pispajo: Persona desmedrada o pequeña, especialmente un niño.
+Pochonga: Vieja gorda y flácida.
 == De la apariencia física END ==
 
 
@@ -218,6 +222,7 @@ Metomentodo: Sinónimo de entrometido.
 Ñongo: Indiscreto, chismoso.
 Picotero: Que habla mucho sin substancia ni razón.
 Pilonero: Se dice de quien publica noticias vulgares.
+Pitoflero: Persona chismosa o entrometida.
 == Del chisme END ==
 
 
@@ -478,6 +483,7 @@ Penitent: Eufemismo de tonto o pendejo.
 Percebe: Persona torpe o ignorante.
 Pescolote: Baboso, zonzo, simple.
 Pinacate: Tonto.
+Pollino: Persona torpe.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -541,6 +547,7 @@ Pelangoche: Persona inútil y despreciable.
 Pelele: Persona simple, inútil y manipulable.
 Penco: Persona inútil.
 Picaño: Holgazán.
+Poltrón: Haragán, holgazán.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -567,6 +574,7 @@ Lábil: Poco firme en sus decisiones. Frágil, débil, caduco.
 Lacio: Flojo, débil, sin vigor.
 Lánguido: Flaco, débil, fatigado.
 Ñecla: Débil, enclenque.
+Poncho: Manso, perezoso, dejado.
 == De la debilidad (pusilanimidad, servil) END ==
 
 
@@ -589,8 +597,10 @@ Maula: Cobarde.
 
 
 
-De la briaguez
+== De la briaguez BEGIN ==
 Bútago: ebrio, borracho, bebedor.
+Piripi: Ebrio.
+== De la briaguez END ==
 
 == De la putería ==
 Cachirila: ramera.
@@ -637,6 +647,7 @@ Pelma: Persona molesta e inoportuna.
 Pertinaz: Obstinado, terco.
 Pertiño: Persona pesada, latosa.
 Petardo: Persona pesada, aburrida o fastidiosa.
+Plomazo: Persona pesada y molesta.
 == Del ser castroso END ==
 
 
@@ -703,6 +714,7 @@ Opado: Presumido.
 Pajoso: Dicho de una persona fanfarrona.
 Papelón: Dicho de una persona que ostenta y aparenta más de lo que es.
 Petulante: Presuntuoso.
+Plantillero: Que hace o dice arrogancias o fanfarronerías.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
