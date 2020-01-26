@@ -72,6 +72,8 @@ Quebrachón: Dicho de un homosexual.
 Quelite: Amante.
 Querida: Amante.
 Quillotra: Amiga, amante.
+Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.
+Rabiza: Ramera muy despreciable.
 == De lo sexual o de la putería END ==
 
 
@@ -345,6 +347,10 @@ Pinchaúvas: Hombre despreciable.
 Pravo: Perverso, malvado y de dañadas costumbres.
 Protervo: Perverso.
 Quídam: Sujeto despreciable y de poco valor, cuyo nombre se ignora o se quiere omitir.
+Rabanera: Mujer descarada y ordinaria. Verdulera.
+Rafez: Vil, bajo, despreciable, de poco valor.
+Rahez: Vil, despreciable, de poco valor.
+Rampante: Trepador, ambicioso, sin escrúpulos.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -498,6 +504,7 @@ Pollino: Persona torpe.
 Porro: Persona torpe, tosca.
 Profano: Ignorante.
 Quinicho: Falto de inteligencia y rapidez.
+Rastacuero: Persona inculta pero adinerada y jactanciosa.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -518,6 +525,7 @@ Mezquino: Tacaño, miserable, avaro, ruin.
 Ocotudo: Mezquino, avaro, escaso.
 Parvífico: Tacaño.
 Pesetero: Dicho de una persona ruin, tacaña, avariciosa.
+Rácano: Tacaño, avaro.
 == De lo codo END ==
 
 
@@ -562,6 +570,8 @@ Pelele: Persona simple, inútil y manipulable.
 Penco: Persona inútil.
 Picaño: Holgazán.
 Poltrón: Haragán, holgazán.
+Rácano: Poco trabajador, vago.
+Rasca: Haragán.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -716,6 +726,7 @@ Lunfardo: Ratero, chulo o rufián.
 Marrullero: Embaucador astuto que enreda a la gente.
 Pechador: estafador.
 Peterete: Dicho de un hombre ratero, pillo. Alguien que hurta o roba.
+Randa: Ratero, granuja.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -815,3 +826,9 @@ Heliogábalo: goloso.
 == Del vicio BEGIN ==
 Perdulario: Vicioso incorregible.
 == Del vicio END ==
+
+
+
+== De la vulgaridad BEGIN ==
+Ramplón: Vulgar, falto de buen gusto, de distinción o de originalidad.
+== De la vulgaridad END ==
