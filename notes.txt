@@ -74,6 +74,7 @@ Querida: Amante.
 Quillotra: Amiga, amante.
 Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.
 Rabiza: Ramera muy despreciable.
+Suripanta: Prostituta.
 == De lo sexual o de la putería END ==
 
 
@@ -136,6 +137,7 @@ Pringón: Puerco, sucio, lleno de grasa o pringue.
 Quirina: Persona muy flaca.
 Rompegalas: Persona desaliñada.
 Rotoso: Andrajoso.
+Sierpe: Persona muy fea.
 == De la apariencia física END ==
 
 
@@ -237,6 +239,8 @@ Picotero: Que habla mucho sin substancia ni razón.
 Pilonero: Se dice de quien publica noticias vulgares.
 Pitoflero: Persona chismosa o entrometida.
 Refitolero: Entrometido.
+Sacón: Chismoso, entrometido.
+Safrisco: Entrometido.
 == Del chisme END ==
 
 
@@ -357,6 +361,9 @@ Rahez: Vil, despreciable, de poco valor.
 Rampante: Trepador, ambicioso, sin escrúpulos.
 Rufezno: Pequeño rufián.
 Rumiajo: Persona pequeña y ruin.
+Sicofante: Calumniador, impostor.
+Soleta: Mujer descarada.
+Sórdido: Miserable, indecente o escandoloso.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -512,6 +519,17 @@ Profano: Ignorante.
 Quinicho: Falto de inteligencia y rapidez.
 Rastacuero: Persona inculta pero adinerada y jactanciosa.
 Rocín: Hombre torpe, ignorante y maleducado.
+Sabidillo: Que presume de entendido y docto sin serlo o sin venir a cuento.
+Salame: Persona tonta, de escaso entendimiento. Tamién aplica para salamín.
+Samarugo: Persona torpe.
+Sanano: Torpe.
+Sandio: Necio o simple.
+Seboruco: Tonto.
+Sofero: Tonto.
+Sopete: Tonto.
+Soplagaitas: Persona tonta o estúpida.
+Soplapollas: Persona tonta, estúpida.
+Suato: Tonto.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -583,6 +601,8 @@ Rasca: Haragán.
 Remolón: Se aplica a la persona que se resiste a hacer cierta cosa o a trabajar.
 Rompepoyos: Persona holgazana.
 Roncero: Tardo, perezoso.
+Sebudo: Perezoso, tardo.
+Sobón: Holgazán, remolón.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -626,6 +646,7 @@ Liebre: Hombre tímido y cobarde.
 Mamita: Persona cobarde, miedosa, mimosa.
 Maula: Cobarde.
 Quegua: Cobarde, pusilánime.
+Semillón: Sinónimo de cobarde.
 == Del ser un cobarde o pussy END ==
 
 
@@ -691,6 +712,7 @@ Querque: Persona molesta e inoportuna.
 Rayente: Dicho de una persona fastidiosa.
 Repalojero: Muy impertinente, molesto.
 Repipí: Dicho de un niño pedante.
+Sayagués: Persona tosca y grosera.
 == Del ser castroso END ==
 
 
@@ -717,6 +739,8 @@ Pacota: Persona insignificante o de escaso valor.
 Patoso: Dicho de una persona que, sin serlo, presume de chistosa y aguda; inhábil.
 Piligûe: Pobre diablo, persona insignificante.
 Purete: Persona insignificante.
+Sinsorgo: Dicho de una persona insustancial y de poca formalidad.
+Surrupio: Persona insignificante.
 == Del poco valor / no valer verga / adulador / pocos huevos END ==
 
 
@@ -761,6 +785,8 @@ Papelón: Dicho de una persona que ostenta y aparenta más de lo que es.
 Petulante: Presuntuoso.
 Plantillero: Que hace o dice arrogancias o fanfarronerías.
 Postinero: Presumido.
+Sietemesino: Se aplica a un joven presumido.
+Sobrado: Creído, muy pagado de sí mismo.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
