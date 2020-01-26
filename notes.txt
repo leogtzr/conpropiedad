@@ -65,6 +65,9 @@ Pípila: Prostituta.
 Pipusa: Mujerzuela.
 Pitoflojo: Que se acuesta con cualquiera.
 Pizcapocha: Piruja, ramera.
+Pupila: Prostituta.
+Putarrón: Prostituta de muy baja condición.
+Putón: Mujer promiscua.
 == De lo sexual o de la putería END ==
 
 
@@ -125,6 +128,7 @@ Pijo: Dicho de una persona que en su vestimenta, modales, lenguaje, entre otras 
 Pilongo: Dicho de una persona extremadamente alta y flaca.
 Pispajo: Persona desmedrada o pequeña, especialmente un niño.
 Pochonga: Vieja gorda y flácida.
+Pringón: Puerco, sucio, lleno de grasa o pringue.
 == De la apariencia física END ==
 
 
@@ -334,6 +338,8 @@ Pérfido: Desleal, infiel, traidor.
 Pesca: Persona de malas costumbres.
 Piltraca: Mujer despreciable.
 Pinchaúvas: Hombre despreciable.
+Pravo: Perverso, malvado y de dañadas costumbres.
+Protervo: Perverso.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -484,6 +490,8 @@ Percebe: Persona torpe o ignorante.
 Pescolote: Baboso, zonzo, simple.
 Pinacate: Tonto.
 Pollino: Persona torpe.
+Porro: Persona torpe, tosca.
+Profano: Ignorante.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -648,6 +656,8 @@ Pertinaz: Obstinado, terco.
 Pertiño: Persona pesada, latosa.
 Petardo: Persona pesada, aburrida o fastidiosa.
 Plomazo: Persona pesada y molesta.
+Postema: Persona pesada o molesta.
+Pringoso: Pesado o fastidioso.
 == Del ser castroso END ==
 
 
@@ -673,6 +683,7 @@ Embeleco: Persona o cosa fútil, molesta o enfadosa.
 Pacota: Persona insignificante o de escaso valor.
 Patoso: Dicho de una persona que, sin serlo, presume de chistosa y aguda; inhábil.
 Piligûe: Pobre diablo, persona insignificante.
+Purete: Persona insignificante.
 == Del poco valor / no valer verga / adulador / pocos huevos END ==
 
 
@@ -715,6 +726,7 @@ Pajoso: Dicho de una persona fanfarrona.
 Papelón: Dicho de una persona que ostenta y aparenta más de lo que es.
 Petulante: Presuntuoso.
 Plantillero: Que hace o dice arrogancias o fanfarronerías.
+Postinero: Presumido.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
@@ -737,6 +749,7 @@ Fifiriche: Melindroso y ridículo.
 Finchado: Orgulloso, engreído o estirado.
 Fufurufo: Persona con aires de grandeza y gustos de la clase media acomodada.
 Gracejo: Payaso.
+Pudibundo: Mojigato, exageradamente pudoroso.
 == De la mamonería END ==
 
 == Afeminado ==
