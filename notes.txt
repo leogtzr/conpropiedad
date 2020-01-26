@@ -1,6 +1,3 @@
-
-
-Insultar con Propiedad
 acerbo
 acerado
 acerote (remolón, huevón, acidioso)
@@ -52,6 +49,11 @@ Lumia: Prostituta.
 Madama: Prostituta.
 Magalla: Prostituta.
 Mariol: Maricón.
+Meretriz: Prostituta.
+Mesalina: Ramera, prostituta.
+Mondaria: Prostituta.
+Mozcorra: Prostituta.
+Mujercilla: Prostituta.
 == De lo sexual o de la putería END ==
 
 
@@ -100,6 +102,9 @@ Macaco: Feo, deforme.
 Malaje: Persona desagradable, que tiene mala sombra.
 Malevo: Persona vulgar, de barrio.
 Mantillón: Desaliñado, sucio.
+Merdoso: Sucio, asqueroso.
+Molso: Desgarbado, desaseado, sucio.
+Nabo: Referido a algo o alguien muy feo.
 == De la apariencia física END ==
 
 
@@ -168,6 +173,7 @@ Lépero: Ordinario, desvergonzado, obsceno, atrevido.
 Loquesco: Alocado, de poco juicio.
 Mafufo: Hombre loco.
 Majaganzas: Hombre pesado y necio.
+Mindango: Hipócrita, embustero, socarrón.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -185,6 +191,10 @@ Harbullista: persona que habla deprisa y atropelladamente.
 Hurguete: persona que hurga o averigua lo - [ ] secreto.
 Lenguaz: Que habla mucho, con impertinencia y necedad.
 Logorreico: Hablantín, charlatán.
+Meterete: Metiche.
+Metete: Persona que se mete en los asuntos de los demás.
+Metijón: Entrometido, metiche.
+Metomentodo: Sinónimo de entrometido.
 == Del chisme END ==
 
 
@@ -279,6 +289,13 @@ Malmirado: Descortés, desconsiderado.
 Mangajo: Persona despreciable.
 Marranalla: Gente baja, ruin, de mal proceder.
 Matamoro: Bravucón.
+Maharón: Desgraciado.
+Malmirado: Descortés, desconsiderado.
+Mangajo: Persona despreciable.
+Marranalla: Gente baja, ruin, de mal proceder.
+Mersa: Dicho de una persona vulgar.
+Mogrollo: Aprovechado o gorrón.
+Móndrigo: Dicho de una persona despreciable.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -391,9 +408,23 @@ Maje: Tonto.
 Mamacallos: Hombre tonto.
 Mameluco: Hombre necio, bobo.
 Mamerto: Persona que tiene escasa inteligencia o habilidad.
+Melón: Bobo.
+Memo: Bobo, simple, mentecato.
+Mendrugo: Hombre rudo, torpe, zoquete.
+Menguado: Tonto, falto de juicio.
+Mentecato: Bobo, necio.
+Mamacallos: Hombre tonto.
+Mameluco: Hombre necio, bobo.
+Merluzo: Bobo, tonto.
+Modorro: Torpe o falto de sutileza.
+Molondro: Hombre perezoso.
+Mongo: Tonto.
+Morón: Idiota, vago.
+Pazguato: Simple, que se pasma y admira de lo que ve u oye.
+Moscatel: Tonto, pazguato.
+Mostrenco: Persona que, por carente de gracia o torpe, provoca desprecio o enfado.
+Nango: Dicho de alguien tonto.
 == De la pendejez (y tosquedad, grosería) END ==
-
-
 
 
 
@@ -409,6 +440,7 @@ Cerracatín: tacaño, miserable.
 Tacaño, miserable.
 Durañón: Persona tacaña, miserable.
 Lechero: Avaro, cicatero.
+Mezquino: Tacaño, miserable, avaro, ruin.
 == De lo codo END ==
 
 
@@ -416,7 +448,6 @@ Lechero: Avaro, cicatero.
 
 
 
-picadill
 
 == De la flojez o quizás la inutilidad BEGIN ==
 Apozolado: floja
@@ -444,6 +475,8 @@ Inerrante: flojo y sin movimiento.
 Laxo: Flojo.
 Lirón: Persona dormilona, holgazana.
 Maganzón: Holgazán.
+Majá: Holgazán.
+Mogollón: Holgazán.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -530,6 +563,11 @@ Incordio: persona incómoda, agobiante o muy molesta.
 Jarocho: Persona de modales bruscos, descompuestos y algo insolentes.
 Lapa: Persona excesivamente encimosa e inoportuna y que sigue insistentemente a otra.
 Maza: Persona pesada y molesta en su conversación y trato.
+Majagranzas: Hombre pesado y necio.
+Matamoros: Bravucón.
+Molón: Molesto, fastidioso.
+Molonquero: Fastidioso, majadero.
+Moscón: Hombre fastidioso, pesado o molesto.
 == Del ser castroso END ==
 
 
@@ -618,6 +656,7 @@ Engañabobos: Persona que pretende embaucar o deslumbrar.
 Engañamundo: Engañador.
 Engañapichanga: Charlatán o engañabobos.
 Fulero: Persona falsa, embustera o charlatana.
+Mendaz: Embustero, mentiroso.
 == De la mentira END ==
 
 
