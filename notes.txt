@@ -58,6 +58,11 @@ Pelleja: Prostituta.
 Pelota: Prostituta.
 Pendanga: Prostituta.
 Pendón: Prostituta.
+Perendeca: Prostituta.
+Perico: Persona, especialmente mujer, que gusta de callejear y es a veces de vida desenvuelta.
+Pindanga: Mujer callejera.
+Pípila: Prostituta.
+Pipusa: Mujerzuela.
 == De lo sexual o de la putería END ==
 
 
@@ -112,6 +117,10 @@ Nabo: Referido a algo o alguien muy feo.
 Nejo: Dicho de alguien sucio, desaseado.
 Ñomblo: Obeso.
 Pañoso: Dicho de una persona asquerosa y vestida de remiendos y andrajos.
+Picio: Sujeto muy feo.
+Pigmeo: Muy pequeño.
+Pijo: Dicho de una persona que en su vestimenta, modales, lenguaje, entre otras cosas, manifiesta gustos propios de una clase social acomodada sin pertenecer a ella.
+Pilongo: Dicho de una persona extremadamente alta y flaca.
 == De la apariencia física END ==
 
 
@@ -184,6 +193,7 @@ Mindango: Hipócrita, embustero, socarrón.
 Ñampeado: Loco, que ha perdido la razón.
 Ñaño: Consentido, mimado en demasía.
 Pato: Persona sosa, sin gracia.
+Pingajo: Persona dejada, maltratada, deteriorada.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -206,6 +216,8 @@ Metete: Persona que se mete en los asuntos de los demás.
 Metijón: Entrometido, metiche.
 Metomentodo: Sinónimo de entrometido.
 Ñongo: Indiscreto, chismoso.
+Picotero: Que habla mucho sin substancia ni razón.
+Pilonero: Se dice de quien publica noticias vulgares.
 == Del chisme END ==
 
 
@@ -213,7 +225,8 @@ Metomentodo: Sinónimo de entrometido.
 
 
 == Del olor BEGIN ==
-Apuscaguado (mohoso, maloliente )
+Apuscaguado (mohoso, maloliente).
+Pertífero: Que tiene muy mal olor.
 == Del olor END ==
 
 
@@ -312,6 +325,10 @@ Nefando: Persona de la que no se puede hablar sin repugnancia u horror.
 Ocote: Persona que enciende discordias o genera alarmas innecesarias o falsas.
 Papalón: Cínico, sin vergûenza.
 Peliagudo: Dicho de una persona sutil o mañosa.
+Pérfido: Desleal, infiel, traidor.
+Pesca: Persona de malas costumbres.
+Piltraca: Mujer despreciable.
+Pinchaúvas: Hombre despreciable.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -458,6 +475,9 @@ Payo: Campesino ignorante y rudo.
 Peal: Persona inútil, torpe, despreciable.
 Pelgar: Hombre sin habilidad o ocupación.
 Penitent: Eufemismo de tonto o pendejo.
+Percebe: Persona torpe o ignorante.
+Pescolote: Baboso, zonzo, simple.
+Pinacate: Tonto.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -477,6 +497,7 @@ Lechero: Avaro, cicatero.
 Mezquino: Tacaño, miserable, avaro, ruin.
 Ocotudo: Mezquino, avaro, escaso.
 Parvífico: Tacaño.
+Pesetero: Dicho de una persona ruin, tacaña, avariciosa.
 == De lo codo END ==
 
 
@@ -518,7 +539,8 @@ Pamposado: Holgazán.
 Papalón: Perezoso.
 Pelangoche: Persona inútil y despreciable.
 Pelele: Persona simple, inútil y manipulable.
-Penco: Persona inútil
+Penco: Persona inútil.
+Picaño: Holgazán.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -612,6 +634,9 @@ Molón: Molesto, fastidioso.
 Molonquero: Fastidioso, majadero.
 Moscón: Hombre fastidioso, pesado o molesto.
 Pelma: Persona molesta e inoportuna.
+Pertinaz: Obstinado, terco.
+Pertiño: Persona pesada, latosa.
+Petardo: Persona pesada, aburrida o fastidiosa.
 == Del ser castroso END ==
 
 
@@ -636,6 +661,7 @@ Don petate: Ser un mequetrefe, un pobre diablo.
 Embeleco: Persona o cosa fútil, molesta o enfadosa.
 Pacota: Persona insignificante o de escaso valor.
 Patoso: Dicho de una persona que, sin serlo, presume de chistosa y aguda; inhábil.
+Piligûe: Pobre diablo, persona insignificante.
 == Del poco valor / no valer verga / adulador / pocos huevos END ==
 
 
@@ -658,6 +684,7 @@ Guindilla: Término despectivo para un agente de policía que por prejuicio cutl
 Lunfardo: Ratero, chulo o rufián.
 Marrullero: Embaucador astuto que enreda a la gente.
 Pechador: estafador.
+Peterete: Dicho de un hombre ratero, pillo. Alguien que hurta o roba.
 == Del ser un ladrón END ==
 
 == De la locura ==
@@ -675,6 +702,7 @@ Matasiete: Fanfarrón.
 Opado: Presumido.
 Pajoso: Dicho de una persona fanfarrona.
 Papelón: Dicho de una persona que ostenta y aparenta más de lo que es.
+Petulante: Presuntuoso.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
@@ -711,7 +739,9 @@ Mendaz: Embustero, mentiroso.
 == De la mentira END ==
 
 
-== De las modas ==
+== De las modas BEGIN ==
+Petímetre: Persona que se preocupa mucho de seguir las modas y de su compostura.
+== De las modas END ==
 
 == De la comida (glotonería, bebida) BEGIN ==
 Golletero: Vulgarmente 'gorrón'.
@@ -747,3 +777,7 @@ Heredípeta: persona interesada y cazadora de herencias.
 
 Heliogábalo: goloso. 
 
+
+== Del vicio BEGIN ==
+Perdulario: Vicioso incorregible.
+== Del vicio END ==
