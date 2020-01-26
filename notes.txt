@@ -134,6 +134,8 @@ Pispajo: Persona desmedrada o pequeña, especialmente un niño.
 Pochonga: Vieja gorda y flácida.
 Pringón: Puerco, sucio, lleno de grasa o pringue.
 Quirina: Persona muy flaca.
+Rompegalas: Persona desaliñada.
+Rotoso: Andrajoso.
 == De la apariencia física END ==
 
 
@@ -208,6 +210,7 @@ Mindango: Hipócrita, embustero, socarrón.
 Pato: Persona sosa, sin gracia.
 Pingajo: Persona dejada, maltratada, deteriorada.
 Querrequerre: Persona que siempre está de mal humor.
+Relamido: Descarado, desfachatado.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -233,6 +236,7 @@ Metomentodo: Sinónimo de entrometido.
 Picotero: Que habla mucho sin substancia ni razón.
 Pilonero: Se dice de quien publica noticias vulgares.
 Pitoflero: Persona chismosa o entrometida.
+Refitolero: Entrometido.
 == Del chisme END ==
 
 
@@ -351,6 +355,8 @@ Rabanera: Mujer descarada y ordinaria. Verdulera.
 Rafez: Vil, bajo, despreciable, de poco valor.
 Rahez: Vil, despreciable, de poco valor.
 Rampante: Trepador, ambicioso, sin escrúpulos.
+Rufezno: Pequeño rufián.
+Rumiajo: Persona pequeña y ruin.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -505,6 +511,7 @@ Porro: Persona torpe, tosca.
 Profano: Ignorante.
 Quinicho: Falto de inteligencia y rapidez.
 Rastacuero: Persona inculta pero adinerada y jactanciosa.
+Rocín: Hombre torpe, ignorante y maleducado.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -526,6 +533,7 @@ Ocotudo: Mezquino, avaro, escaso.
 Parvífico: Tacaño.
 Pesetero: Dicho de una persona ruin, tacaña, avariciosa.
 Rácano: Tacaño, avaro.
+Rozavillón: Que tiene por hábito comer a costa ajena.
 == De lo codo END ==
 
 
@@ -572,6 +580,9 @@ Picaño: Holgazán.
 Poltrón: Haragán, holgazán.
 Rácano: Poco trabajador, vago.
 Rasca: Haragán.
+Remolón: Se aplica a la persona que se resiste a hacer cierta cosa o a trabajar.
+Rompepoyos: Persona holgazana.
+Roncero: Tardo, perezoso.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -677,6 +688,9 @@ Postema: Persona pesada o molesta.
 Pringoso: Pesado o fastidioso.
 Quera: Hombre pesado y molesto.
 Querque: Persona molesta e inoportuna.
+Rayente: Dicho de una persona fastidiosa.
+Repalojero: Muy impertinente, molesto.
+Repipí: Dicho de un niño pedante.
 == Del ser castroso END ==
 
 
@@ -770,6 +784,8 @@ Finchado: Orgulloso, engreído o estirado.
 Fufurufo: Persona con aires de grandeza y gustos de la clase media acomodada.
 Gracejo: Payaso.
 Pudibundo: Mojigato, exageradamente pudoroso.
+Resabido: Pedante.
+Runflante: Arrogante, orgulloso.
 == De la mamonería END ==
 
 == Afeminado ==
@@ -832,3 +848,8 @@ Perdulario: Vicioso incorregible.
 == De la vulgaridad BEGIN ==
 Ramplón: Vulgar, falto de buen gusto, de distinción o de originalidad.
 == De la vulgaridad END ==
+
+
+== Del wey que causa broncas BEGIN ==
+Refertero: Persona que causa riñas o pendencias.
+== Del wey que causa broncas END ==
