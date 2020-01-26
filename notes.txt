@@ -76,6 +76,7 @@ Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.
 Rabiza: Ramera muy despreciable.
 Suripanta: Prostituta.
 Taita: Rufián, hombre que explota prostitutas.
+Tronera: Persona de vida desordenada, libertina o disipada.
 == De lo sexual o de la putería END ==
 
 
@@ -140,6 +141,7 @@ Rompegalas: Persona desaliñada.
 Rotoso: Andrajoso.
 Sierpe: Persona muy fea.
 Tarasco: Mujer fea,descarada o de caracter violento.
+Tozo: Enano, achaparrado o rechoncho.
 == De la apariencia física END ==
 
 
@@ -246,6 +248,7 @@ Refitolero: Entrometido.
 Sacón: Chismoso, entrometido.
 Safrisco: Entrometido.
 Tarabilla: Persona que habla mucho, muy deprisa y desordenadamente.
+Trápala: Persona que habla mucho y sin substancia.
 == Del chisme END ==
 
 
@@ -372,6 +375,7 @@ Sórdido: Miserable, indecente o escandoloso.
 Tagarote: Aprovechado, que saca beneficio sin escrúpulos.
 Taita: Rufián.
 Tartufo: Dicho de alguien hipócrita, falso.
+Tiuque: Persona astuta y maligna.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -543,6 +547,10 @@ Tarúpido: Compuesto de tarado y estúpido. Persona de ideas absurdas y no muy l
 Tatarate: Dicho de una persona que está atontada o actua de manera alocada.
 Terenco: Tonto.
 Tetunte: Persona tonta.
+Tilingo: Pendejo.
+Tordo: Torpe, tonto.
+Torgado: Trabado, torpe.
+Trompo: Persona torpe.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -566,6 +574,7 @@ Pesetero: Dicho de una persona ruin, tacaña, avariciosa.
 Rácano: Tacaño, avaro.
 Rozavillón: Que tiene por hábito comer a costa ajena.
 Tecuco: Avaro, mezquino, roñoso.
+Transido: Tacaño.
 == De lo codo END ==
 
 
@@ -620,6 +629,8 @@ Sobón: Holgazán, remolón.
 Telegón: Flojonazo, indolente.
 Tanganero: Holgazán, gandul.
 Tapalcate: Persona buena para nada y a quien nadie aprecia.
+Tiriciento: Perezoso, Malhumorado.
+Torreznero: Holgazán y regalón.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -844,6 +855,7 @@ Engañamundo: Engañador.
 Engañapichanga: Charlatán o engañabobos.
 Fulero: Persona falsa, embustera o charlatana.
 Mendaz: Embustero, mentiroso.
+Trefe: Falso. 
 == De la mentira END ==
 
 
