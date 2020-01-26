@@ -49,6 +49,8 @@ Hurgamandero: persona que se vende sexualmente.
 Jinetera: Persona que busca a sus clientes entre extranjeros.
 Lúbrico: Libidinoso, lascivo.
 Lumia: Prostituta.
+Madama: Prostituta.
+Magalla: Prostituta.
 == De lo sexual o de la putería END ==
 
 
@@ -93,6 +95,7 @@ Guaperas: Feo y presumido.
 Hadrubado: jorobado.
 Hético: individuo muy flaco, casi en los huesos.
 Lardoso: Grasiento.
+Macaco: Feo, deforme.
 == De la apariencia física END ==
 
 
@@ -159,6 +162,7 @@ Jicaque: Dicho de una persona huraña, retraída y poco sociable.
 Lambón: Adulador, servil. De uso común entre gente muy vulgar.
 Lépero: Ordinario, desvergonzado, obsceno, atrevido.
 Loquesco: Alocado, de poco juicio.
+Mafufo: Hombre loco.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -261,6 +265,11 @@ Jayán: Gañán, persona tosca y grosera.
 Jifero: Sucio, soez, mal hablado.
 Lángara: Persona que no es digna de confianza.
 Logrero: Persona que busca sacar rovecho por cualquier cosa.
+Macandón: Falso, embustero.
+Macarra: Vulgar, de mal gusto.
+Maco: Malo, pícaro, ruin.
+Magancés: Traidor o malo.
+Maharón: Desgraciado.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -368,7 +377,12 @@ Jabato: Persona tosca, inculta.
 Jelenco: Tonto, simple, baboso.
 Lerdo: Pesado y torpe en el andar. Tardo o lento para comprender algo.
 Lipendi: Tonto, bobo.
+Madero: Persona muy necia, torpe e insesible.
 == De la pendejez (y tosquedad, grosería) END ==
+
+
+
+
 
 Interesantes:
 Angurrientos: persona que orina frecuentemente.
@@ -416,6 +430,7 @@ Indolente: flojo, perezoso.
 Inerrante: flojo y sin movimiento.
 Laxo: Flojo.
 Lirón: Persona dormilona, holgazana.
+Maganzón: Holgazán.
 == De la flojez o quizás la inutilidad END ==
 
 
