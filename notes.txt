@@ -105,6 +105,8 @@ Mantillón: Desaliñado, sucio.
 Merdoso: Sucio, asqueroso.
 Molso: Desgarbado, desaseado, sucio.
 Nabo: Referido a algo o alguien muy feo.
+Nejo: Dicho de alguien sucio, desaseado.
+Ñomblo: Obeso.
 == De la apariencia física END ==
 
 
@@ -174,6 +176,8 @@ Loquesco: Alocado, de poco juicio.
 Mafufo: Hombre loco.
 Majaganzas: Hombre pesado y necio.
 Mindango: Hipócrita, embustero, socarrón.
+Ñampeado: Loco, que ha perdido la razón.
+Ñaño: Consentido, mimado en demasía.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -195,6 +199,7 @@ Meterete: Metiche.
 Metete: Persona que se mete en los asuntos de los demás.
 Metijón: Entrometido, metiche.
 Metomentodo: Sinónimo de entrometido.
+Ñongo: Indiscreto, chismoso.
 == Del chisme END ==
 
 
@@ -296,6 +301,8 @@ Marranalla: Gente baja, ruin, de mal proceder.
 Mersa: Dicho de una persona vulgar.
 Mogrollo: Aprovechado o gorrón.
 Móndrigo: Dicho de una persona despreciable.
+Nefando: Persona de la que no se puede hablar sin repugnancia u horror.
+Ñiquiñaque: Persona muy despreciable.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -424,6 +431,8 @@ Pazguato: Simple, que se pasma y admira de lo que ve u oye.
 Moscatel: Tonto, pazguato.
 Mostrenco: Persona que, por carente de gracia o torpe, provoca desprecio o enfado.
 Nango: Dicho de alguien tonto.
+Ñame: Tonto, inculto, maleducado.
+Obtuso: Torpe, tardo en comprender.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -502,6 +511,7 @@ Hominicaco: hombre pusilánime e insignificante moral o físicamente.
 Lábil: Poco firme en sus decisiones. Frágil, débil, caduco.
 Lacio: Flojo, débil, sin vigor.
 Lánguido: Flaco, débil, fatigado.
+Ñecla: Débil, enclenque.
 == De la debilidad (pusilanimidad, servil) END ==
 
 
