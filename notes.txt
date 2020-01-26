@@ -68,13 +68,15 @@ Pizcapocha: Piruja, ramera.
 Pupila: Prostituta.
 Putarrón: Prostituta de muy baja condición.
 Putón: Mujer promiscua.
+Quebrachón: Dicho de un homosexual.
+Quelite: Amante.
+Querida: Amante.
+Quillotra: Amiga, amante.
 == De lo sexual o de la putería END ==
 
 
 
 
-Viejo
-antañón
 
 == De la apariencia física BEGIN ==
 Aparrada
@@ -129,6 +131,7 @@ Pilongo: Dicho de una persona extremadamente alta y flaca.
 Pispajo: Persona desmedrada o pequeña, especialmente un niño.
 Pochonga: Vieja gorda y flácida.
 Pringón: Puerco, sucio, lleno de grasa o pringue.
+Quirina: Persona muy flaca.
 == De la apariencia física END ==
 
 
@@ -202,6 +205,7 @@ Mindango: Hipócrita, embustero, socarrón.
 Ñaño: Consentido, mimado en demasía.
 Pato: Persona sosa, sin gracia.
 Pingajo: Persona dejada, maltratada, deteriorada.
+Querrequerre: Persona que siempre está de mal humor.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
@@ -340,6 +344,7 @@ Piltraca: Mujer despreciable.
 Pinchaúvas: Hombre despreciable.
 Pravo: Perverso, malvado y de dañadas costumbres.
 Protervo: Perverso.
+Quídam: Sujeto despreciable y de poco valor, cuyo nombre se ignora o se quiere omitir.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -492,6 +497,7 @@ Pinacate: Tonto.
 Pollino: Persona torpe.
 Porro: Persona torpe, tosca.
 Profano: Ignorante.
+Quinicho: Falto de inteligencia y rapidez.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -598,6 +604,7 @@ Huilón: cobarde.
 Liebre: Hombre tímido y cobarde.
 Mamita: Persona cobarde, miedosa, mimosa.
 Maula: Cobarde.
+Quegua: Cobarde, pusilánime.
 == Del ser un cobarde o pussy END ==
 
 
@@ -658,6 +665,8 @@ Petardo: Persona pesada, aburrida o fastidiosa.
 Plomazo: Persona pesada y molesta.
 Postema: Persona pesada o molesta.
 Pringoso: Pesado o fastidioso.
+Quera: Hombre pesado y molesto.
+Querque: Persona molesta e inoportuna.
 == Del ser castroso END ==
 
 
