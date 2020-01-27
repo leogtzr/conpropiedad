@@ -77,6 +77,9 @@ Rabiza: Ramera muy despreciable.
 Suripanta: Prostituta.
 Taita: Rufián, hombre que explota prostitutas.
 Tronera: Persona de vida desordenada, libertina o disipada.
+Verriondo: Lujurioso, libidinoso.
+Zarrapastro: Mujer de mal vivir.
+Zurrona: Mujer perdida.
 == De lo sexual o de la putería END ==
 
 
@@ -142,6 +145,13 @@ Rotoso: Andrajoso.
 Sierpe: Persona muy fea.
 Tarasco: Mujer fea,descarada o de caracter violento.
 Tozo: Enano, achaparrado o rechoncho.
+Vainazas: Hombre descuidado en su arreglo personal o oen su trabajo.
+Venático: Maniático, loco.
+Xongo: Deseado, sucio.
+Zancajo: Persona baja o de mala figura.
+Zancarrón: Profesor ignorante.
+Zarrapastro: Desaseado, andrajoso.
+Zurrapa: Dicho de una persona, particularmente chica, raquítica y fea.
 == De la apariencia física END ==
 
 
@@ -376,6 +386,9 @@ Tagarote: Aprovechado, que saca beneficio sin escrúpulos.
 Taita: Rufián.
 Tartufo: Dicho de alguien hipócrita, falso.
 Tiuque: Persona astuta y maligna.
+Vaquetón: Persona poca delicada.
+Verraco: Persona despreciable por su mala conducta.
+Zarandajo: Dicho de una persona despreciable.
 == Del ser un culero o grosero o charlatán END ==
 
 
@@ -551,6 +564,28 @@ Tilingo: Pendejo.
 Tordo: Torpe, tonto.
 Torgado: Trabado, torpe.
 Trompo: Persona torpe.
+Turro: Tonto.
+Turulo: Dicho de una persona tonta.
+Turuleca: Dicho de una persona falta de entendimiento o razón.
+Vagaroso: Lento o torpe.
+Zafio: Grosero, tosco, falto de tacto.
+Zamacuco: Persona tonta, abrutada.
+Zamarro: Hombre tosco y pesado.
+Zambombo: Hombre tosco, grosero y rudo.
+Zampatortas: Persona torpe.
+Zamuro: Tonto, estúpido, cretino.
+Zapallo: Tonto.
+Zolocho: Tonto.
+Zompo: Tonto.
+Zoncuán: Menso, tonto.
+Zononeco: Tonto, bobo.
+Zonzoreco: Falto de entendimiento o razón.
+Zopenco: Tonto, necio, tosco.
+Zarailón: Tonto.
+Zorimbo: Tonto.
+Zote: Persona muy torpe.
+Zuato: Tonto, cándido, zoquete.
+Zurumbo: Dicho de una persona tonta, falta de entendimiento o de razón.
 == De la pendejez (y tosquedad, grosería) END ==
 
 
@@ -575,6 +610,7 @@ Rácano: Tacaño, avaro.
 Rozavillón: Que tiene por hábito comer a costa ajena.
 Tecuco: Avaro, mezquino, roñoso.
 Transido: Tacaño.
+Verrugo: Hombre avaro.
 == De lo codo END ==
 
 
@@ -631,6 +667,8 @@ Tanganero: Holgazán, gandul.
 Tapalcate: Persona buena para nada y a quien nadie aprecia.
 Tiriciento: Perezoso, Malhumorado.
 Torreznero: Holgazán y regalón.
+Tumbón: Holgazán o perezoso.
+Virote: Hombre ocioso.
 == De la flojez o quizás la inutilidad END ==
 
 
@@ -641,8 +679,10 @@ Torreznero: Holgazán y regalón.
 Apuscaguado: que huele mal.
 C2833100
 
-== De la locura ==
+== De la locura BEGIN ==
 Ateperetado: medio loco.
+Virulé: Chiflado.
+== De la locura END ==
 
 8007135555
 
@@ -659,6 +699,9 @@ Lánguido: Flaco, débil, fatigado.
 Ñecla: Débil, enclenque.
 Poncho: Manso, perezoso, dejado.
 Tilico: Flaco, enclenque.
+Xirgo: Dicho de alguien o algo flaco, enclenque.
+Zangandungo: Persona inhábil, holgazán.
+Zanguango: Persona indolente o perezoza, desmañanado, torpe.
 == De la debilidad (pusilanimidad, servil) END ==
 
 
@@ -744,6 +787,7 @@ Repalojero: Muy impertinente, molesto.
 Repipí: Dicho de un niño pedante.
 Sayagués: Persona tosca y grosera.
 Tábano: Persona molesta o pesada.
+Vitando: Odioso, execrable.
 == Del ser castroso END ==
 
 
@@ -772,6 +816,7 @@ Piligûe: Pobre diablo, persona insignificante.
 Purete: Persona insignificante.
 Sinsorgo: Dicho de una persona insustancial y de poca formalidad.
 Surrupio: Persona insignificante.
+Zarrampín: Hombre desmañanado y de poca utilidad en una profesión u oficio.
 == Del poco valor / no valer verga / adulador / pocos huevos END ==
 
 
@@ -818,6 +863,10 @@ Plantillero: Que hace o dice arrogancias o fanfarronerías.
 Postinero: Presumido.
 Sietemesino: Se aplica a un joven presumido.
 Sobrado: Creído, muy pagado de sí mismo.
+Ufanero: Presuntuoso, engreído, jactancioso.
+Ufano: Arrogante, jactancioso, engreído.
+Vanaglorioso: Dicho de quien se jacta de su propio valor u obra.
+Vanistorio: Persona ridículamente vanidosa.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
@@ -856,6 +905,8 @@ Engañapichanga: Charlatán o engañabobos.
 Fulero: Persona falsa, embustera o charlatana.
 Mendaz: Embustero, mentiroso.
 Trefe: Falso. 
+Trufador: Mentiroso.
+Trufaldín: Farsante.
 == De la mentira END ==
 
 
