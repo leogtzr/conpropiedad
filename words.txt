@@ -58,12 +58,15 @@ Zurrona: Mujer perdida.
 Baldonada: prostituta.
 Cachirila: ramera.
 Coja: prostituta.
+Encolado: Hombre presumido y afeminado.
+Halconera: mujer provocativa e insinuante.
 == De lo sexual o de la putería END ==
 
 
 
 
-a== De la apariencia física BEGIN ==
+== De la apariencia física BEGIN ==
+Hadrubado: jorobado. 
 Amondogado: Gordo.
 Aporreado: Dicho de una persona físicamente agotada.
 Adán: Hombre sucio, haraposo, desaliñado.
@@ -140,6 +143,8 @@ Zurrapa: Dicho de una persona, particularmente chica, raquítica y fea.
 
 
 == Del carácter (terquedad, temor, ... ) BEGIN ==
+Casquite: persona de mal carácter.
+Atufado: Enfadado, enojado.
 Angojoso: Alguien comúnmente angustiado, afligido.
 Acerado: Dicho de alguien que es incisivo, penetrante, mordaz.
 Apocoyado: persona temerosa, pusilánime, abatida.
@@ -257,6 +262,7 @@ Pertífero: Que tiene muy mal olor.
 
 
 == Del ser un culero o grosero o charlatán, delincuente BEGIN ==
+Embaidor: Embaucador, engañador.
 Adredista: Que por costumbre actúa con una intención deliberada para su propio beneficio y sin importarle las otras personas.
 Acerbo: Que es cruel, riguroso, desapacible.
 Arlote: holgazán, bribón.
@@ -601,6 +607,7 @@ Verrugo: Hombre avaro.
 
 
 == De la flojez o quizás la inutilidad BEGIN ==
+Ignavo: Flojo.
 Acerote: Dicho de aquella persona holgazana o azotacalles.
 Apozolado: floja
 Arlote: holgazán, bribón.
@@ -663,6 +670,8 @@ Virulé: Chiflado.
 
 
 == De la debilidad (pusilanimidad, servil) BEGIN ==
+Imbele: incapaz de defenderse por débil, flaco.
+Cajeta: cobarde, pendejón, bizcocho.
 Belitre: Débil, enclenque. 2. Pícaro, ruin y de viles costumbres.
 Calzonazos: hombre débil que se deja dominar, especialmente por una mujer.
 Cansón: aburrido, inestable, inconstante.
@@ -685,6 +694,7 @@ Zanguango: Persona indolente o perezoza, desmañanado, torpe.
 
 
 == Del ser un cobarde o pussy BEGIN ==
+Cajeta: cobarde, pendejón, bizcocho.
 Calcillas: hombre tímido o cobarde.
 Cañuto: soplón.
 Cuculmeque: persona miedosa, cobarderde.
@@ -709,13 +719,9 @@ Piripi: Ebrio.
 == De la briaguez END ==
 
 
-== De la debilidad / cobardía ==
-Cajeta: cobarde, pendejón, bizcocho.
-Ignavo: cobarde.
-Imbele: incapaz de defenderse por débil, flaco.
-
-== De la ridiculez ==
+== De la ridiculez BEGIN ==
 Calandraco: persona ridicula.
+== De la ridiculez END ==
 
 == Del ser castroso BEGIN ==
 Aperreado: Persona trabajosa, molesta.
@@ -774,9 +780,6 @@ Vitando: Odioso, execrable.
 Camelista: persona que practica el camelo -- cosa o noticia que se hace pasar por buena -- y especialmente cosa en la que aparenta conocimientos, virtudes, o cualidades que no posee.
 == De la pretensión END ==
 
-== Del humor ==
-Cariscedo: áspero, desagradable, enojado.
-Casauite: persona de mal carácter.
 
 == Del poco valor / no valer verga / adulador / pocos huevos BEGIN ==
 Adocenado: Vulgar, mediocre.
@@ -795,11 +798,13 @@ Zarrampín: Hombre desmañanado y de poca utilidad en una profesión u oficio.
 == Del poco valor / no valer verga / adulador / pocos huevos END ==
 
 
-== De la hueva ==
+== De la hueva BEGIN ==
 Castaña: persona o cosa aburrida o fastidiosa.
+== De la hueva END ==
 
-== De los nervios, preocupación ==
+== De los nervios, preocupación BEGIN ==
 Cominero: Dicho de alguien que se preocupa por minucias o nimiedades.
+== De los nervios, preocupación END ==
 
 == Del ser un ladrón BEGIN ==
 Deprendador: ladrón.
@@ -818,8 +823,9 @@ Peterete: Dicho de un hombre ratero, pillo. Alguien que hurta o roba.
 Randa: Ratero, granuja.
 == Del ser un ladrón END ==
 
-== De la locura ==
+== De la locura BEGIN ==
 Desentido: Loco, necio.
+== De la locura END ==
 
 == De la fanfarronería, vanidad, presuntuosidad BEGIN ==
 Echón: Fanfarrón, petulante o jactancioso.
@@ -845,14 +851,11 @@ Vanistorio: Persona ridículamente vanidosa.
 == De la fanfarronería, vanidad, presuntuosidad END ==
 
 
-== De la pobreza o dinero ==
+== De la pobreza o dinero BEGIN ==
+Heredípeta: persona interesada y cazadora de herencias. 
 Egeno: Pobre, escaso o miserable.
 Heredípeta: persona interesada y cazadora de herencias.
-
-== Del que engaña ==
-
-Embaidor: Embaucador, engañador.
-Embelecador: Que engaña con trucos y falsas apariencias.
+== De la pobreza o dinero END ==
 
 == De la mamonería BEGIN ==
 Achechado: Dicho de una persona mimada, muy consentida y que por tal causa se vuelve maleducada y majadera.
@@ -871,10 +874,9 @@ Runflante: Arrogante, orgulloso.
 Tapudo: Petulante.
 == De la mamonería END ==
 
-== Afeminado ==
-Encolado: Hombre presumido y afeminado.
 
 == De la mentira BEGIN ==
+Embelecador: Que engaña con trucos y falsas apariencias.
 Engañabobos: Persona que pretende embaucar o deslumbrar.
 Engañamundo: Engañador.
 Engañapichanga: Charlatán o engañabobos.
@@ -902,22 +904,6 @@ Laminero: Goloso.
 == De la comida (glotonería) END ==
 
 
-
-Halconera: mujer provocativa e insinuante. 
-Hetera: mujer facil, de cascos ligeros. 
-
-Hadrubado: jorobado. 
-Hético: individuo muy flaco, casi en los huesos.
-
-
-Gracejo: payaso. 
-Hacino: avaro, mezquino, miserable. 
-Hadario: desdichado. 
-
-Harbullista: persona que habla deprisa y atropelladamente. 
-Heredípeta: persona interesada y cazadora de herencias. 
-
-Heliogábalo: goloso. 
 
 
 == Del vicio BEGIN ==
