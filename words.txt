@@ -1,9 +1,4 @@
-acerbo
-acerado
-acerote (remolón, huevón, acidioso)
-achechado (hijo de papi, mimado, chiple, achichiguado, acidioso)
-aciguatado (imbecil, pazguato, aguacatón (falto de entendimiento, tonto)), ajimbalado
-Adán (hombre sucio, haraposo, desaliñado)
+Aciguatado: Imbécil, pazguato, papanatas, lelo.
 Adocenado (vulgar, mediocre)
 Adoquín (persona inútil, muy torpe)
 Aperreado (molesto)
@@ -20,10 +15,11 @@ Cabrón, bribón: alfarnate
 Codo: pichicato
 Gordo: amondogado
 
-
-== De lo sexual o de la putería BEGIN==
 Angojoso (alguien comúnmente angustiado, afligido)
 Angurriento: persona que orina muy frecuentemente.
+
+
+== De lo sexual o de la putería BEGI N==
 Callonca: prostituta.
 Capulina: mujer de mala vida.
 Casquivana: coqueta, fresca, frívola.
@@ -87,7 +83,8 @@ Zurrona: Mujer perdida.
 
 
 == De la apariencia física BEGIN ==
-Aparrada
+Adán: Hombre sucio, haraposo, desaliñado.
+Aparrada: Dicho de una persona: achaparrada.
 Apersonado (de mala presencia)
 Ascoroso: asqueroso.
 Bichicome: persona indigente, que vive de desperdicios.
@@ -160,6 +157,7 @@ Zurrapa: Dicho de una persona, particularmente chica, raquítica y fea.
 
 
 == Del carácter (terquedad, temor, ... ) BEGIN ==
+Acerado: Dicho de alguien que es incisivo, penetrante, mordaz.
 Apocoyado: persona temerosa, pusilánime, abatida.
 Argel: persona que no tiene gracia ni inspira simpatía.
 arisco: áspero, de carácter intratable.
@@ -274,7 +272,8 @@ Pertífero: Que tiene muy mal olor.
 
 
 == Del ser un culero o grosero o charlatán, delincuente BEGIN ==
-Arlote: holgazán, bribón
+Acerbo: Que es cruel, riguroso, desapacible.
+Arlote: holgazán, bribón.
 Arrogador:
 Anonador: persona que humilla, abate.
 Aperado: persona bien dotada para urdir intrigas y sacar provecho de ellas.
@@ -620,6 +619,7 @@ Verrugo: Hombre avaro.
 
 
 == De la flojez o quizás la inutilidad BEGIN ==
+Acerote: Dicho de aquella persona holgazana o azotacalles.
 Apozolado: floja
 Arlote: holgazán, bribón.
 Bigardo: vago, holgazán.
@@ -880,6 +880,7 @@ Embaidor: Embaucador, engañador.
 Embelecador: Que engaña con trucos y falsas apariencias.
 
 == De la mamonería BEGIN ==
+Achechado: Dicho de una persona mimada, muy consentida y que por tal causa se vuelve maleducada y majadera.
 Encastillado: Altivo y soberbio.
 Encopetado: Presumido.
 Engallado: Engreído, altanero o soberbio.
@@ -943,7 +944,6 @@ Hacino: avaro, mezquino, miserable.
 Hadario: desdichado. 
 
 Harbullista: persona que habla deprisa y atropelladamente. 
-o dinero 
 Heredípeta: persona interesada y cazadora de herencias. 
 
 Heliogábalo: goloso. 
