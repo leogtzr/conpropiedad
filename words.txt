@@ -1,25 +1,4 @@
-Aciguatado: Imbécil, pazguato, papanatas, lelo.
-Adocenado (vulgar, mediocre)
-Adoquín (persona inútil, muy torpe)
-Aperreado (molesto)
-Aporreador (persona que fatiga mucho a alguien)
-apezgatado
-Adocenado: vulgar o mediocre.
-Adredista: que por costumbre actúa con una intención deliberada para su propio beneficio y sin importarle las otras personas.
-
-
-Chismoso: alcaucil, alparcero
-Lelo, tonto, bobo: alelado, apangado
-Cabrón, bribón: alfarnate
-Ñango: alfeñique
-Codo: pichicato
-Gordo: amondogado
-
-Angojoso (alguien comúnmente angustiado, afligido)
-Angurriento: persona que orina muy frecuentemente.
-
-
-== De lo sexual o de la putería BEGI N==
+== De lo sexual o de la putería BEGIN ==
 Callonca: prostituta.
 Capulina: mujer de mala vida.
 Casquivana: coqueta, fresca, frívola.
@@ -76,16 +55,20 @@ Tronera: Persona de vida desordenada, libertina o disipada.
 Verriondo: Lujurioso, libidinoso.
 Zarrapastro: Mujer de mal vivir.
 Zurrona: Mujer perdida.
+Baldonada: prostituta.
+Cachirila: ramera.
+Coja: prostituta.
 == De lo sexual o de la putería END ==
 
 
 
 
-
-== De la apariencia física BEGIN ==
+a== De la apariencia física BEGIN ==
+Amondogado: Gordo.
+Aporreado: Dicho de una persona físicamente agotada.
 Adán: Hombre sucio, haraposo, desaliñado.
 Aparrada: Dicho de una persona: achaparrada.
-Apersonado (de mala presencia)
+Apersonado: De mala presencia.
 Ascoroso: asqueroso.
 Bichicome: persona indigente, que vive de desperdicios.
 Birriosa: de mala calidad o aspecto.
@@ -157,6 +140,7 @@ Zurrapa: Dicho de una persona, particularmente chica, raquítica y fea.
 
 
 == Del carácter (terquedad, temor, ... ) BEGIN ==
+Angojoso: Alguien comúnmente angustiado, afligido.
 Acerado: Dicho de alguien que es incisivo, penetrante, mordaz.
 Apocoyado: persona temerosa, pusilánime, abatida.
 Argel: persona que no tiene gracia ni inspira simpatía.
@@ -233,6 +217,7 @@ Testarrón: Testarudo.
 
 
 == Del chisme BEGIN ==
+Alparcero: Persona que se caracteriza por estar de habladora o chismosa.
 Chafardero: chismoso, Cotilla.
 Conventillero: chismoso, metiche, entrometido.
 Cuchareta: Persona entrometida.
@@ -264,7 +249,7 @@ Trápala: Persona que habla mucho y sin substancia.
 
 
 == Del olor BEGIN ==
-Apuscaguado (mohoso, maloliente).
+Apuscaguado: Mohoso, maloliente.
 Pertífero: Que tiene muy mal olor.
 == Del olor END ==
 
@@ -272,6 +257,7 @@ Pertífero: Que tiene muy mal olor.
 
 
 == Del ser un culero o grosero o charlatán, delincuente BEGIN ==
+Adredista: Que por costumbre actúa con una intención deliberada para su propio beneficio y sin importarle las otras personas.
 Acerbo: Que es cruel, riguroso, desapacible.
 Arlote: holgazán, bribón.
 Arrogador:
@@ -403,6 +389,8 @@ Gagá: Anciaco de poco entendimiento y bajo control de su lengua. Persona anticu
 == De la vejez END ==
 
 == De la pendejez (y tosquedad, grosería) BEGIN ==
+Adoquín: Persona inútil, muy torpe.
+Aciguatado: Imbécil, pazguato, papanatas, lelo.
 adundado: tonto, falto de entendimiento.
 Aguacató: "" (lo anterior)
 agalambado: simple, tonto, bobo, baboso.
@@ -589,16 +577,10 @@ Zurumbo: Dicho de una persona tonta, falta de entendimiento o de razón.
 
 
 
-Interesantes:
-Angurrientos: persona que orina frecuentemente.
-Baldonada: prostituta.
-
-
 
 == De lo codo BEGIN ==
-Pichicato.
+Pichicato: Codo.
 Cerracatín: tacaño, miserable.
-Tacaño, miserable.
 Durañón: Persona tacaña, miserable.
 Lechero: Avaro, cicatero.
 Mezquino: Tacaño, miserable, avaro, ruin.
@@ -673,18 +655,12 @@ Virote: Hombre ocioso.
 
 
 
-
-
-== Del olor ==
-Apuscaguado: que huele mal.
-C2833100
-
 == De la locura BEGIN ==
 Ateperetado: medio loco.
 Virulé: Chiflado.
 == De la locura END ==
 
-8007135555
+
 
 == De la debilidad (pusilanimidad, servil) BEGIN ==
 Belitre: Débil, enclenque. 2. Pícaro, ruin y de viles costumbres.
@@ -732,9 +708,6 @@ Bútago: ebrio, borracho, bebedor.
 Piripi: Ebrio.
 == De la briaguez END ==
 
-== De la putería ==
-Cachirila: ramera.
-Coja: prostituta.
 
 == De la debilidad / cobardía ==
 Cajeta: cobarde, pendejón, bizcocho.
@@ -745,6 +718,7 @@ Imbele: incapaz de defenderse por débil, flaco.
 Calandraco: persona ridicula.
 
 == Del ser castroso BEGIN ==
+Aperreado: Persona trabajosa, molesta.
 Calilla: persona molesta y pesada.
 Caparra: persona atosigante e impertinente en una conversación o advertencias.
 Cargante: que carga, molesta, o cansa por su insistencia.
@@ -805,6 +779,7 @@ Cariscedo: áspero, desagradable, enojado.
 Casauite: persona de mal carácter.
 
 == Del poco valor / no valer verga / adulador / pocos huevos BEGIN ==
+Adocenado: Vulgar, mediocre.
 Chupatintas: oficinista de poca categoría.
 Cobista: adulador.
 Conato: persona con poca determinación.
@@ -925,10 +900,6 @@ Lambucio: Glotón, goloso.
 Lamerón: Goloso.
 Laminero: Goloso.
 == De la comida (glotonería) END ==
-
-
-
-Enviado desde mi iPhone
 
 
 
