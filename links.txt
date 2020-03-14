@@ -1,0 +1,7 @@
+https://www.infoq.com/presentations/reactive-spring-flux-react/
+https://developer.okta.com/blog/2018/09/25/spring-webflux-websockets-react
+https://spring.io/guides/gs/testing-restdocs/
+https://www.baeldung.com/spring-rest-docs
+https://stackoverflow.com/questions/48057087/why-are-there-handlerfunctions-in-spring-5-webflux
+https://www.tutorialkart.com/mongodb/mongodb-delete-collection/
+
