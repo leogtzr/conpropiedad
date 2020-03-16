@@ -63,8 +63,6 @@ Halconera: mujer provocativa e insinuante.
 == De lo sexual o de la putería END ==
 
 
-
-
 == De la apariencia física BEGIN ==
 Hadrubado: jorobado. 
 Amondogado: Gordo.
@@ -136,10 +134,6 @@ Zancarrón: Profesor ignorante.
 Zarrapastro: Desaseado, andrajoso.
 Zurrapa: Dicho de una persona, particularmente chica, raquítica y fea.
 == De la apariencia física END ==
-
-
-
-
 
 
 == Del carácter (terquedad, temor, ... ) BEGIN ==
@@ -219,8 +213,6 @@ Testarrón: Testarudo.
 == Del carácter (terquedad, temor, ... ) END ==
 
 
-
-
 == Del chisme BEGIN ==
 Alparcero: Persona que se caracteriza por estar de habladora o chismosa.
 Chafardero: chismoso, Cotilla.
@@ -250,15 +242,10 @@ Trápala: Persona que habla mucho y sin substancia.
 == Del chisme END ==
 
 
-
-
-
 == Del olor BEGIN ==
 Apuscaguado: Mohoso, maloliente.
 Pertífero: Que tiene muy mal olor.
 == Del olor END ==
-
-
 
 
 == Del ser un culero o grosero o charlatán, delincuente BEGIN ==
@@ -383,16 +370,13 @@ Zarandajo: Dicho de una persona despreciable.
 == Del ser un culero o grosero o charlatán END ==
 
 
-
-
-
-
 == De la vejez BEGIN ==
 Antañón: muy viejo.
 Carcamán: viejo pesado, torpe en el andar.
 Carraspiento: dicho de un anciano despreciable.
 Gagá: Anciaco de poco entendimiento y bajo control de su lengua. Persona anticuada y que huele a rancio.
 == De la vejez END ==
+
 
 == De la pendejez (y tosquedad, grosería) BEGIN ==
 Adoquín: Persona inútil, muy torpe.
