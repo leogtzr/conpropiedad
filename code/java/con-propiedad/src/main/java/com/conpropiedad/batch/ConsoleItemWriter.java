@@ -4,6 +4,7 @@ import org.springframework.batch.item.ItemWriter;
 
 import java.util.List;
 
+// TODO: change this ...
 public class ConsoleItemWriter<T> implements ItemWriter<T> {
     @Override
     public void write(final List<? extends T> items) {

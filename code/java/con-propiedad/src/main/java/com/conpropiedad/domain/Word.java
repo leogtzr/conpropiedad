@@ -21,6 +21,10 @@ public class Word {
         this.tags = Arrays.asList(tags.split(","));
     }
 
+    public void setTags(final List<String> tags) {
+        this.tags = tags;
+    }
+
     public List<String> getTags() {
         return new ArrayList<>(this.tags);
     }
