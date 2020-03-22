@@ -12,7 +12,7 @@ get_jar_to_run() {
 
 readonly jar_file="${target_dir}/$(get_jar_to_run)"
 readonly opts="-Dspring.profiles.active=development"
-readonly jar_opts=""
+readonly jar_opts="--input=/tmp/input.txt"
 
 java ${opts} -jar "${jar_file}" ${jar_opts}
 
