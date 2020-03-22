@@ -1,16 +1,16 @@
 == De lo sexual o de la putería BEGIN ==
 Callonca: prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada
 Capulina: mujer de mala vida@wila,volada
-Casquivana: coqueta, fresca, frívola@wila
-Chirusa o chiruza: mujer de comportamiento vulgar o afectado.@wila,volada
-Concubina: Prostituta.
-Congalero: prostituta.
-Cucha: Prostituta, ramera, mujer de mala vida.
-Cuclillo: Hombre al que le es infiel su mujer.
-Entradora: Mujer facilona.
-Entrona: Mujer accesible, coqueta y fácil de conquistar.
-Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.
-Furcia: Prostituta.
+Casquivana: coqueta, fresca, frívola@wila,volada
+Chirusa o chiruza: mujer de comportamiento vulgar o afectado.@wila,volada,vulgar
+Concubina: Prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada
+Congalero: prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada
+Cucha: Prostituta, ramera, mujer de mala vida.@puta,wila
+Cuclillo: Hombre al que le es infiel su mujer@cornudo
+Entradora: Mujer facilona@wila,volada
+Entrona: Mujer accesible, coqueta y fácil de conquistar.@facilona,wila,accesible,coqueta
+Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.@puto,mujeriego,pussy,cobarde
+Furcia: Prostituta.@puta,wila,prostituta,prosti,zorra,mujerzuela
 Gabasa: Persona que tiene relaciones sexuales a cambio de dinero.
 Garzón: Joven de vida disoluta.
 Gorrina: Mujer deseada y de mala actitud en su trato social.
@@ -565,9 +565,6 @@ Zuato: Tonto, cándido, zoquete.
 Zurumbo: Dicho de una persona tonta, falta de entendimiento o de razón.
 == De la pendejez (y tosquedad, grosería) END ==
 
-
-
-
 == De lo codo BEGIN ==
 Pichicato: Codo.
 Cerracatín: tacaño, miserable.
@@ -871,7 +868,6 @@ Trufador: Mentiroso.
 Trufaldín: Farsante.
 == De la mentira END ==
 
-
 == De las modas BEGIN ==
 Petímetre: Persona que se preocupa mucho de seguir las modas y de su compostura.
 == De las modas END ==
@@ -888,12 +884,9 @@ Laminero: Goloso.
 == De la comida (glotonería) END ==
 
 
-
-
 == Del vicio BEGIN ==
 Perdulario: Vicioso incorregible.
 == Del vicio END ==
-
 
 
 == De la vulgaridad BEGIN ==
