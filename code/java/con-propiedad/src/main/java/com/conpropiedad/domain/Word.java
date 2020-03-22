@@ -1,6 +1,7 @@
 package com.conpropiedad.domain;
 
 import lombok.*;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -11,6 +12,7 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode
+@Document
 public class Word {
 
     private String word;
@@ -19,10 +21,6 @@ public class Word {
 
     public void setTags(final String tags) {
         this.tags = Arrays.asList(tags.split(","));
-    }
-
-    public void setTags(final List<String> tags) {
-        this.tags = tags;
     }
 
     public List<String> getTags() {

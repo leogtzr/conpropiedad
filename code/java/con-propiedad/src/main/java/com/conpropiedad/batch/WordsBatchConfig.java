@@ -89,13 +89,13 @@ public class WordsBatchConfig {
 
     @Bean
     public ItemWriter<Word> writer() {
-        return new ConsoleItemWriter<>();
+        return new DBWriter();
     }
 
     @Bean
     public ItemProcessor<Word, Word> processor() {
         return item -> {
-            System.out.printf("Tags have: [%d]\n", item.getTags().size());
+            System.out.printf("Tags have: [%d] in [%s]\n", item.getTags().size(), item.toString());
             return item;
         };
     }
@@ -106,7 +106,7 @@ public class WordsBatchConfig {
                 .get("step")
                 .<Word, Word>chunk(10)
                 .reader(reader())
-                 .processor(processor())
+                 // .processor(processor())
                 .writer(writer())
                 .build();
     }
