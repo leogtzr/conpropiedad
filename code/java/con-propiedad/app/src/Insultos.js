@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link, withRouter } from 'react-router-dom';
+import { withRouter } from 'react-router-dom';
 import './App.css';
 import { Button, Container, Form, FormGroup, Input, Label } from 'reactstrap';
 import AppNavbar from './AppNavbar';
@@ -22,20 +22,6 @@ class Insultos extends Component {
     this.handleSubmit = this.handleSubmit.bind(this);
   }
 
-  addUser = (event) => {
-    const target = event.target;
-    const value = target.value;
-    this.setState({
-      users: [...this.state.users, <Something valor={value}/>]
-    })
-  }
-
-  handleChange(event) {
-    const target = event.target;
-    const value = target.value;
-    console.log("Hola: " + value);
-  }
-
   handleChange(event) {
     this.setState({value: event.target.value});
   }
@@ -49,11 +35,14 @@ class Insultos extends Component {
   }
 
   render() {
-    const {item} = this.state;
+    //const {menu, isLoading} = this.state;
+    console.log(this.state);
     const title = <h2>Search for insultos</h2>;
 
     return <div>
+    
       <AppNavbar/>
+      {title}
       <Container>
       <Form onSubmit={this.handleSubmit}>
         <FormGroup>
