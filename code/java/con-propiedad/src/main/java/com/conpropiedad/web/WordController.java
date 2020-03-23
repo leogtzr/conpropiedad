@@ -19,7 +19,7 @@ public class WordController {
 
     @GetMapping("/words")
     @ResponseBody
-    public Flux<Word> word() {
+    public Flux<Word> words() {
         return this.wordRepository.findAll();
     }
 
