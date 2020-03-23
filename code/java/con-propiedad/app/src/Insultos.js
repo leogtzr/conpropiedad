@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
-import './App.css';
 import { Button, Container, Form, FormGroup, Input, Label } from 'reactstrap';
 import AppNavbar from './AppNavbar';
 
@@ -31,17 +30,14 @@ class Insultos extends Component {
   }
 
   render() {
-    const {words} = this.state;
-    console.log(words);
-    const title = <h2>Search for insultos</h2>;
 
-    const todo = words.map(w => {
+    const words = this.state.words.map(w => {
       return <ul><li>{w.word}: {w.meaning}, tags: <b>[{w.tags.join(", ")}]</b></li></ul>
     });
 
     return <div>
       <AppNavbar/>
-      {title}
+      <h2>Search for insultos</h2>;
       <Container>
       <Form onSubmit={this.handleSubmit}>
         <FormGroup>
@@ -53,7 +49,7 @@ class Insultos extends Component {
         </FormGroup>
       </Form>
       </Container>
-      {todo}
+      {words}
       </div>
   }
 }
