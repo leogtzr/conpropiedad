@@ -7,7 +7,7 @@ import Insultos from './Insultos';
 class App extends Component {
 
   componentDidMount(){
-    document.title = "Menú"
+   document.title = "Insultos"
   }
 
   render() {

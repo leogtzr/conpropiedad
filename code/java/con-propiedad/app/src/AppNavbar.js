@@ -25,9 +25,6 @@ export default class AppNavbar extends Component {
             <NavLink
               href="https://twitter.com/leogtzr">@leogtzr</NavLink>
           </NavItem>
-          <NavItem>
-            <NavLink href="https://github.com/leogtzr/comedor-menu-app/">GitHub</NavLink>
-          </NavItem>
         </Nav>
       </Collapse>
     </Navbar>;

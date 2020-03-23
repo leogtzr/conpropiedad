@@ -14,10 +14,7 @@ public class DBWriter implements ItemWriter<Word> {
 
     @Override
     public void write(final List<? extends Word> words) throws Exception {
-//        words.forEach(w -> {
-//            this.wordRepository.save(w).subscribe();
-//        });
-
+        this.wordRepository.deleteAll().subscribe();
         this.wordRepository.saveAll(words).subscribe();
     }
 

@@ -24,7 +24,7 @@ public class WordController {
     @GetMapping("/words/{tag}")
     @ResponseBody
     public Flux<Word> words(@PathVariable String tag) {
-        return wordRepository.wordsWith(tag);
+        return wordRepository.wordsWith(tag.strip().toLowerCase());
     }
 
 }

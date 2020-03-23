@@ -4,19 +4,13 @@ import './App.css';
 import { Button, Container, Form, FormGroup, Input, Label } from 'reactstrap';
 import AppNavbar from './AppNavbar';
 
-class Something extends Component {
-  render() {
-    return <p>[{this.props.valor}]</p>
-  }
-}
-
 class Insultos extends Component {
 
   constructor(props) {
     super(props);
     this.state = {
       value: '',
-      users: []
+      words: []
     };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
@@ -27,26 +21,31 @@ class Insultos extends Component {
   }
   
   handleSubmit(event) {
-    this.setState({
-        users: [...this.state.users, <Something valor={this.state.value}/>]
-    });
+
+    fetch('words/' + this.state.value)
+        .then(response => response.json())
+        .then(data => this.setState({words: data}));
+
     event.target.reset();
     event.preventDefault();
   }
 
   render() {
-    //const {menu, isLoading} = this.state;
-    console.log(this.state);
+    const {words} = this.state;
+    console.log(words);
     const title = <h2>Search for insultos</h2>;
 
+    const todo = words.map(w => {
+      return <ul><li>{w.word}: {w.meaning}, tags: <b>[{w.tags.join(", ")}]</b></li></ul>
+    });
+
     return <div>
-    
       <AppNavbar/>
       {title}
       <Container>
       <Form onSubmit={this.handleSubmit}>
         <FormGroup>
-          <Label for="name">Name</Label>
+          <Label for="name">Keywords</Label>
           <Input type="text" onChange={this.handleChange} name="name" id="name"/>
           </FormGroup>
         <FormGroup>
@@ -54,7 +53,7 @@ class Insultos extends Component {
         </FormGroup>
       </Form>
       </Container>
-      {this.state.users}
+      {todo}
       </div>
   }
 }
