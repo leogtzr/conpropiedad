@@ -13,7 +13,7 @@ public class DBWriter implements ItemWriter<Word> {
     private WordRepository wordRepository;
 
     @Override
-    public void write(final List<? extends Word> words) throws Exception {
+    public void write(final List<? extends Word> words) {
         this.wordRepository.deleteAll().subscribe();
         this.wordRepository.saveAll(words).subscribe();
     }

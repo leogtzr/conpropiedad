@@ -11,15 +11,15 @@ Entradora: Mujer facilona@wila,volada
 Entrona: Mujer accesible, coqueta y fácil de conquistar.@facilona,wila,accesible,coqueta
 Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.@puto,mujeriego,pussy,cobarde
 Furcia: Prostituta.@puta,wila,prostituta,prosti,zorra,mujerzuela
-Gabasa: Persona que tiene relaciones sexuales a cambio de dinero.
-Garzón: Joven de vida disoluta.
-Gorrina: Mujer deseada y de mala actitud en su trato social.
-Halconera: mujer provocativa e insinuante.
-Hetera: mujer facil, de cascos ligeros.
-Huilón: prostituto.
-Hurgamandero: persona que se vende sexualmente.
-Jinetera: Persona que busca a sus clientes entre extranjeros.
-Lúbrico: Libidinoso, lascivo.
+Gabasa: Persona que tiene relaciones sexuales a cambio de dinero.@puta,prostituta,wila,prosti,zorra,mujerzuela
+Garzón: Joven de vida disoluta.@volada,wila,fresca
+Gorrina: Mujer deseada y de mala actitud en su trato social.@wila,insinuante
+Halconera: mujer provocativa e insinuante.@wila,fresca,provocativa,insinuante
+Hetera: mujer facil, de cascos ligeros.@fácil,wila,puta,putilla,golfa
+Huilón: prostituto.@puto,golfo,prostituto
+Hurgamandero: persona que se vende sexualmente.@puto,puta,prostituta,prostituto,prosti,sex,golfo,golfa
+Jinetera: Persona que busca a sus clientes entre extranjeros.@puta,prostituta,prosti,sex,golfa,wila
+Lúbrico: Libidinoso, lascivo.@volado,lascivo
 Lumia: Prostituta.
 Madama: Prostituta.
 Magalla: Prostituta.
