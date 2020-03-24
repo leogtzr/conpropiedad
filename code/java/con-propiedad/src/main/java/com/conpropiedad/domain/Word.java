@@ -3,9 +3,7 @@ package com.conpropiedad.domain;
 import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 @Data
 @ToString
@@ -17,10 +15,10 @@ public class Word {
 
     private String word;
     private String meaning;
-    private List<String> tags;
+    private Set<String> tags;
 
     public void setTags(final String tags) {
-        this.tags = Arrays.asList(tags.split(","));
+        this.tags = new TreeSet<>(Arrays.asList(tags.split(",")));
     }
 
     public List<String> getTags() {

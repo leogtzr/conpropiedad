@@ -1,44 +1,44 @@
 == De lo sexual o de la putería BEGIN ==
-Callonca: prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada
-Capulina: mujer de mala vida@wila,volada
-Casquivana: coqueta, fresca, frívola@wila,volada
-Chirusa o chiruza: mujer de comportamiento vulgar o afectado.@wila,volada,vulgar
-Concubina: Prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada
-Congalero: prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada
-Cucha: Prostituta, ramera, mujer de mala vida.@puta,wila
+Callonca: prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Capulina: mujer de mala vida@wila,volada,ramera,piruja
+Casquivana: coqueta, fresca, frívola@wila,volada,ramera,piruja
+Chirusa o chiruza: mujer de comportamiento vulgar o afectado.@wila,volada,vulgar,piruja
+Concubina: Prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,piruja
+Congalero: prostituta@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,piruja
+Cucha: Prostituta, ramera, mujer de mala vida.@puta,wila,piruja
 Cuclillo: Hombre al que le es infiel su mujer@cornudo
-Entradora: Mujer facilona@wila,volada
-Entrona: Mujer accesible, coqueta y fácil de conquistar.@facilona,wila,accesible,coqueta
+Entradora: Mujer facilona@wila,volada,piruja,zorra,fácil
+Entrona: Mujer accesible, coqueta y fácil de conquistar.@facilona,wila,accesible,coqueta,piruja
 Faldero: Mujeriego, cobarde que busca resguardo tras la falda de una mujer para protegerse.@puto,mujeriego,pussy,cobarde
 Furcia: Prostituta.@puta,wila,prostituta,prosti,zorra,mujerzuela
 Gabasa: Persona que tiene relaciones sexuales a cambio de dinero.@puta,prostituta,wila,prosti,zorra,mujerzuela
 Garzón: Joven de vida disoluta.@volada,wila,fresca
 Gorrina: Mujer deseada y de mala actitud en su trato social.@wila,insinuante
 Halconera: mujer provocativa e insinuante.@wila,fresca,provocativa,insinuante
-Hetera: mujer facil, de cascos ligeros.@fácil,wila,puta,putilla,golfa
+Hetera: mujer facil, de cascos ligeros.@fácil,wila,puta,putilla,golfa,ramera
 Huilón: prostituto.@puto,golfo,prostituto
-Hurgamandero: persona que se vende sexualmente.@puto,puta,prostituta,prostituto,prosti,sex,golfo,golfa
-Jinetera: Persona que busca a sus clientes entre extranjeros.@puta,prostituta,prosti,sex,golfa,wila
+Hurgamandero: persona que se vende sexualmente.@puto,puta,prostituta,prostituto,prosti,sex,golfo,golfa,ramera
+Jinetera: Persona que busca a sus clientes entre extranjeros.@puta,prostituta,prosti,sex,golfa,wila,ramera
 Lúbrico: Libidinoso, lascivo.@volado,lascivo
-Lumia: Prostituta.
-Madama: Prostituta.
-Magalla: Prostituta.
-Mariol: Maricón.
-Meretriz: Prostituta.
-Mesalina: Ramera, prostituta.
-Mondaria: Prostituta.
-Mozcorra: Prostituta.
-Mujercilla: Prostituta.
-Pelleja: Prostituta.
-Pelota: Prostituta.
-Pendanga: Prostituta.
-Pendón: Prostituta.
-Perendeca: Prostituta.
-Perico: Persona, especialmente mujer, que gusta de callejear y es a veces de vida desenvuelta.
-Pindanga: Mujer callejera.
-Pípila: Prostituta.
-Pipusa: Mujerzuela.
-Pitoflojo: Que se acuesta con cualquiera.
+Lumia: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Madama: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Magalla: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Mariol: Maricón.@puto,pussy,marica,joto,coconut,jotazo,culo
+Meretriz: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Mesalina: Ramera, prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Mondaria: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Mozcorra: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Mujercilla: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Pelleja: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Pelota: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Pendanga: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Pendón: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti,mujerzuela
+Perendeca: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Perico: Persona, especialmente mujer, que gusta de callejear y es a veces de vida desenvuelta.@puta,golfa,wila,ramera,prostituta,prosti,volada
+Pindanga: Mujer callejera.@wila,volada,callejera,golfa,zorra
+Pípila: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti,mujerzuela
+Pipusa: Mujerzuela.@puta,golfa,wila,ramera,prostituta,prosti,mujerzuela,putilla,piruja
+Pitoflojo: Que se acuesta con cualquiera.@puto,pitoflojo,wilo,mujeriego
 Pizcapocha: Piruja, ramera.
 Pupila: Prostituta.
 Putarrón: Prostituta de muy baja condición.
