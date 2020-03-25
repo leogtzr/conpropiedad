@@ -39,10 +39,10 @@ Pindanga: Mujer callejera.@wila,volada,callejera,golfa,zorra
 Pípila: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti,mujerzuela
 Pipusa: Mujerzuela.@puta,golfa,wila,ramera,prostituta,prosti,mujerzuela,putilla,piruja
 Pitoflojo: Que se acuesta con cualquiera.@puto,pitoflojo,wilo,mujeriego
-Pizcapocha: Piruja, ramera.
-Pupila: Prostituta.
-Putarrón: Prostituta de muy baja condición.
-Putón: Mujer promiscua.
+Pizcapocha: Piruja, ramera.@ramera,piruja,puta,wila,mujerzuela,prostituta,prosti
+Pupila: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
+Putarrón: Prostituta de muy baja condición.@barata,puta,golfa,wila,ramera,prostituta,prosti
+Putón: Mujer promiscua.@volada,wila,promiscua
 Quebrachón: Dicho de un homosexual.
 Quelite: Amante.
 Querida: Amante.
