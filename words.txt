@@ -43,12 +43,12 @@ Pizcapocha: Piruja, ramera.@ramera,piruja,puta,wila,mujerzuela,prostituta,prosti
 Pupila: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
 Putarrón: Prostituta de muy baja condición.@barata,puta,golfa,wila,ramera,prostituta,prosti
 Putón: Mujer promiscua.@volada,wila,promiscua
-Quebrachón: Dicho de un homosexual.
+Quebrachón: Dicho de un homosexual.@marica,puto,joto,jotito,muerdealmohadas,maricanena
 Quelite: Amante.@amante,canco
 Querida: Amante.@amante,canco
-Quillotra: Amiga, amante.
-Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.
-Rabiza: Ramera muy despreciable.
+Quillotra: Amiga, amante.@amante,querida,canco
+Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.@volada,viva,wila,desenvuelta,fresca
+Rabiza: Ramera muy despreciable.@ramera,puta,putilla,golfa,prostituta,despreciable
 Suripanta: Prostituta.
 Taita: Rufián, hombre que explota prostitutas.
 Tronera: Persona de vida desordenada, libertina o disipada.
