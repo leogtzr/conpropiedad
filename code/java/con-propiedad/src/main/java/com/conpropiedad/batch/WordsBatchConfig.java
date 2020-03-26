@@ -106,7 +106,7 @@ public class WordsBatchConfig {
                 .get("step")
                 .<Word, Word>chunk(10)
                 .reader(reader())
-                 // .processor(processor())
+                .processor(processor())
                 .writer(writer())
                 .build();
     }

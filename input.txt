@@ -62,4 +62,4 @@ Halconera;mujer provocativa e insinuante.;wila,provocativa,insinuante
 Hadrubado;jorobado.;jorobado
 Amondogado;Gordo.;marrano,gordo,fat,cochino
 Aporreado;Dicho de una persona físicamente agotada.;jodido,agotado
-Adán;Hombre sucio, haraposo, desaliñado.;sucio,marrano,cochino,haraposo,harapiento
+Adán;Hombre sucio, haraposo, desaliñado.;sucio,marrano,cochino,haraposo,harapiento,desaliñado,chamagoso,astroso,mugriento
