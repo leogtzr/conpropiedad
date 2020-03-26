@@ -59,13 +59,13 @@ Baldonada: prostituta.@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,r
 Cachirila: ramera.@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
 Coja: prostituta.@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
 Encolado: Hombre presumido y afeminado.@maricón,marica,joto,gay
-Halconera: mujer provocativa e insinuante.@wila,provocativa
+Halconera: mujer provocativa e insinuante.@wila,provocativa,insinuante
 == De lo sexual o de la putería END ==
 
 
 == De la apariencia física BEGIN ==
-Hadrubado: jorobado. 
-Amondogado: Gordo.
+Hadrubado: jorobado.@jorobado
+Amondogado: Gordo.@marrano,gordo,fat,cochino
 Aporreado: Dicho de una persona físicamente agotada.
 Adán: Hombre sucio, haraposo, desaliñado.
 Aparrada: Dicho de una persona: achaparrada.
