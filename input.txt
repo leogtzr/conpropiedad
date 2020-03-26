@@ -38,3 +38,28 @@ Pindanga;Mujer callejera.;wila,volada,callejera,golfa,zorra
 Pípila;Prostituta.;puta,golfa,wila,ramera,prostituta,prosti,mujerzuela
 Pipusa;Mujerzuela.;puta,golfa,wila,ramera,prostituta,prosti,mujerzuela,putilla,piruja
 Pitoflojo;Que se acuesta con cualquiera.;puto,pitoflojo,wilo,mujeriego
+Pizcapocha;Piruja, ramera.;ramera,piruja,puta,wila,mujerzuela,prostituta,prosti
+Pupila;Prostituta.;puta,golfa,wila,ramera,prostituta,prosti
+Putarrón;Prostituta de muy baja condición.;barata,puta,golfa,wila,ramera,prostituta,prosti
+Putón;Mujer promiscua.;volada,wila,promiscua
+Quebrachón;Dicho de un homosexual.;marica,puto,joto,jotito,muerdealmohadas,maricanena
+Quelite;Amante.;amante,canco
+Querida;Amante.;amante,canco
+Quillotra;Amiga, amante.;amante,querida,canco
+Rabisalsera;Se aplica a la mujer viva, desenvuelta y descarada.;volada,viva,wila,desenvuelta,fresca
+Rabiza;Ramera muy despreciable.;ramera,puta,putilla,golfa,prostituta,despreciable
+Suripanta;Prostituta.;puta,golfa,prostituta,putilla,ramera
+Taita;Rufián, hombre que explota prostitutas.;pimp,chulo
+Tronera;Persona de vida desordenada, libertina o disipada.;libertino
+Verriondo;Lujurioso, libidinoso.;libidinoso,lujurioso,lascivo,sátiro
+Zarrapastro;Mujer de mal vivir.;wila,viva,fresca
+Zurrona;Mujer perdida.;perdida,volada
+Baldonada;prostituta.;puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Cachirila;ramera.;puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Coja;prostituta.;puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Encolado;Hombre presumido y afeminado.;maricón,marica,joto,gay
+Halconera;mujer provocativa e insinuante.;wila,provocativa,insinuante
+Hadrubado;jorobado.;jorobado
+Amondogado;Gordo.;marrano,gordo,fat,cochino
+Aporreado;Dicho de una persona físicamente agotada.;jodido,agotado
+Adán;Hombre sucio, haraposo, desaliñado.;sucio,marrano,cochino,haraposo,harapiento
