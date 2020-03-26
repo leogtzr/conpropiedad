@@ -66,8 +66,8 @@ Halconera: mujer provocativa e insinuante.@wila,provocativa,insinuante
 == De la apariencia física BEGIN ==
 Hadrubado: jorobado.@jorobado
 Amondogado: Gordo.@marrano,gordo,fat,cochino
-Aporreado: Dicho de una persona físicamente agotada.
-Adán: Hombre sucio, haraposo, desaliñado.
+Aporreado: Dicho de una persona físicamente agotada.@jodido,agotado
+Adán: Hombre sucio, haraposo, desaliñado.@sucio,marrano,cochino,haraposo,harapiento
 Aparrada: Dicho de una persona: achaparrada.
 Apersonado: De mala presencia.
 Ascoroso: asqueroso.
