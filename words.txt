@@ -49,8 +49,8 @@ Querida: Amante.@amante,canco
 Quillotra: Amiga, amante.@amante,querida,canco
 Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.@volada,viva,wila,desenvuelta,fresca
 Rabiza: Ramera muy despreciable.@ramera,puta,putilla,golfa,prostituta,despreciable
-Suripanta: Prostituta.
-Taita: Rufián, hombre que explota prostitutas.
+Suripanta: Prostituta.@puta,golfa,prostituta,putilla,ramera
+Taita: Rufián, hombre que explota prostitutas.@pimp,chulo
 Tronera: Persona de vida desordenada, libertina o disipada.
 Verriondo: Lujurioso, libidinoso.
 Zarrapastro: Mujer de mal vivir.
