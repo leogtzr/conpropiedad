@@ -51,15 +51,15 @@ Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.@volada,viva,wil
 Rabiza: Ramera muy despreciable.@ramera,puta,putilla,golfa,prostituta,despreciable
 Suripanta: Prostituta.@puta,golfa,prostituta,putilla,ramera
 Taita: Rufián, hombre que explota prostitutas.@pimp,chulo
-Tronera: Persona de vida desordenada, libertina o disipada.
-Verriondo: Lujurioso, libidinoso.
-Zarrapastro: Mujer de mal vivir.
-Zurrona: Mujer perdida.
-Baldonada: prostituta.
-Cachirila: ramera.
-Coja: prostituta.
-Encolado: Hombre presumido y afeminado.
-Halconera: mujer provocativa e insinuante.
+Tronera: Persona de vida desordenada, libertina o disipada.@libertino
+Verriondo: Lujurioso, libidinoso.@libidinoso,lujurioso,lascivo,sátiro
+Zarrapastro: Mujer de mal vivir.@wila,viva,fresca
+Zurrona: Mujer perdida.@perdida,volada
+Baldonada: prostituta.@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Cachirila: ramera.@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Coja: prostituta.@puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
+Encolado: Hombre presumido y afeminado.@maricón,marica,joto,gay
+Halconera: mujer provocativa e insinuante.@wila,provocativa
 == De lo sexual o de la putería END ==
 
 
