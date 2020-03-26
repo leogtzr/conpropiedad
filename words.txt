@@ -44,8 +44,8 @@ Pupila: Prostituta.@puta,golfa,wila,ramera,prostituta,prosti
 Putarrón: Prostituta de muy baja condición.@barata,puta,golfa,wila,ramera,prostituta,prosti
 Putón: Mujer promiscua.@volada,wila,promiscua
 Quebrachón: Dicho de un homosexual.
-Quelite: Amante.
-Querida: Amante.
+Quelite: Amante.@amante,canco
+Querida: Amante.@amante,canco
 Quillotra: Amiga, amante.
 Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.
 Rabiza: Ramera muy despreciable.

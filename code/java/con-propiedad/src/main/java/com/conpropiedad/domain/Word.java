@@ -5,6 +5,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.*;
 
+import static java.util.Arrays.stream;
+import static java.util.stream.Collectors.toList;
+
 @Data
 @ToString
 @NoArgsConstructor
@@ -18,7 +21,7 @@ public class Word {
     private Set<String> tags;
 
     public void setTags(final String tags) {
-        this.tags = new TreeSet<>(Arrays.asList(tags.split(",")));
+        this.tags = new TreeSet<>(stream(tags.split(",")).map(String::toLowerCase).collect(toList()));
     }
 
     public List<String> getTags() {
