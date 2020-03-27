@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"math/rand"
 	"os"
 	"regexp"
 	"strings"
@@ -79,4 +80,12 @@ func equalTags(a, b []string) bool {
 
 func equalWords(a, b Word) bool {
 	return a.word == b.word && a.meaning == b.meaning && equalTags(a.tags, b.tags)
+}
+
+func stringWithCharset(length int, charset string, seededRand *rand.Rand) string {
+	b := make([]byte, length)
+	for i := range b {
+		b[i] = charset[seededRand.Intn(len(charset))]
+	}
+	return string(b)
 }

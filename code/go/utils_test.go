@@ -1,8 +1,14 @@
 package main
 
 import (
+	"bufio"
+	"fmt"
+	"math/rand"
+	"os"
+	"path/filepath"
 	"regexp"
 	"testing"
+	"time"
 )
 
 func Test_validateOptions(t *testing.T) {
@@ -121,5 +127,59 @@ func TestEqualTags(t *testing.T) {
 		if got != tt.result {
 			t.Errorf("got=[%t], should be [%t]", got, tt.result)
 		}
+	}
+}
+
+func Test_loadInputFile(t *testing.T) {
+	seededRand := rand.New(rand.NewSource(time.Now().UnixNano()))
+	randFileName := stringWithCharset(5, charset, seededRand)
+	tmpFilePath := filepath.Join("/tmp", randFileName)
+
+	wordFormatRgx := *regexp.MustCompile(`^.+;.+;.+$`)
+
+	file, err := os.Create(tmpFilePath)
+	if err != nil {
+		t.Error(err)
+	}
+	defer file.Close()
+
+	w := bufio.NewWriter(file)
+	fmt.Fprintln(w, "a;b;c,d,e")
+	fmt.Fprintln(w, "# que diceeee")
+	fmt.Fprintln(w, "que diceeee;")
+	fmt.Fprintln(w, "hola;ok;bye")
+	w.Flush()
+
+	type test struct {
+		want []Word
+	}
+
+	tests := []test{
+		{
+			want: []Word{
+				Word{word: "a", meaning: "b", tags: []string{"c", "d", "e"}},
+				Word{word: "hola", meaning: "ok", tags: []string{"bye"}},
+			},
+		},
+	}
+
+	for _, tt := range tests {
+		words, err := loadInputFile(tmpFilePath, &wordFormatRgx)
+		if err != nil {
+			t.Error(err)
+		}
+		if len(words) != len(tt.want) {
+			t.Errorf("got=[%d] words, want=[%d]", len(words), len(tt.want))
+		}
+		for i, w := range words {
+			if !equalWords(w, tt.want[i]) {
+				t.Errorf("got=[%s], want=[%s]", w, tt.want[i])
+			}
+		}
+	}
+
+	err = os.RemoveAll(tmpFilePath)
+	if err != nil {
+		t.Errorf("unexpedted error: [%s]", err)
 	}
 }
