@@ -189,3 +189,76 @@ func Test_loadInputFile(t *testing.T) {
 		t.Errorf("unexpedted error: [%s]", err)
 	}
 }
+
+func Test_filterByText(t *testing.T) {
+	words := []Word{
+		Word{word: "w1", meaning: "m1", tags: []string{"hola", "bebe"}},
+		Word{word: "w2", meaning: "m2", tags: []string{"oki", "doki"}},
+		Word{word: "w3", meaning: "m3", tags: []string{"oki3", "doki3"}},
+		Word{word: "w4", meaning: "m4", tags: []string{"facebook", "twitter"}},
+	}
+
+	type test struct {
+		words     *[]Word
+		tagSearch string
+		want      []Word
+	}
+
+	tests := []test{
+		{
+			words:     &words,
+			tagSearch: "a",
+			want: []Word{
+				Word{word: "w1", meaning: "m1", tags: []string{"hola", "bebe"}},
+				Word{word: "w4", meaning: "m4", tags: []string{"facebook", "twitter"}},
+			},
+		},
+		{
+			words:     &words,
+			tagSearch: "o",
+			want: []Word{
+				Word{word: "w1", meaning: "m1", tags: []string{"hola", "bebe"}},
+				Word{word: "w2", meaning: "m2", tags: []string{"oki", "doki"}},
+				Word{word: "w3", meaning: "m3", tags: []string{"oki3", "doki3"}},
+				Word{word: "w4", meaning: "m4", tags: []string{"facebook", "twitter"}},
+			},
+		},
+	}
+
+	for _, tt := range tests {
+		got := filterByText(tt.words, tt.tagSearch)
+		if len(got) != len(tt.want) {
+			t.Errorf("got=[%d], want=[%d]", len(got), len(tt.want))
+		}
+		for i, w := range got {
+			if !equalWords(w, tt.want[i]) {
+				t.Errorf("got=[%s], want=[%s]", w, tt.want[i])
+			}
+		}
+	}
+}
+
+func TestWord_String(t *testing.T) {
+	type test struct {
+		word Word
+		want string
+	}
+
+	tests := []test{
+		{
+			word: Word{word: "w", meaning: "m", tags: []string{"t1", "t2"}},
+			want: "w: m		(t1, t2)",
+		},
+		{
+			word: Word{word: "w2", meaning: "m2", tags: []string{"tg1", "tg2"}},
+			want: "w2: m2		(tg1, tg2)",
+		},
+	}
+
+	for _, tt := range tests {
+		got := tt.word.String()
+		if got != tt.want {
+			t.Errorf("got=[%s], want=[%s]", got, tt.want)
+		}
+	}
+}

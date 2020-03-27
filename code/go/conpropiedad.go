@@ -25,6 +25,9 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println(len(words))
 
+	filtered := filterByText(&words, *tag)
+	for _, w := range filtered {
+		fmt.Println(w)
+	}
 }

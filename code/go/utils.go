@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"fmt"
 	"math/rand"
 	"os"
 	"regexp"
@@ -88,4 +89,23 @@ func stringWithCharset(length int, charset string, seededRand *rand.Rand) string
 		b[i] = charset[seededRand.Intn(len(charset))]
 	}
 	return string(b)
+}
+
+func filterByText(words *[]Word, text string) []Word {
+	filteredWords := make([]Word, 0)
+
+	for _, w := range *words {
+		for _, tag := range w.tags {
+			if strings.Contains(tag, text) {
+				filteredWords = append(filteredWords, w)
+				break
+			}
+		}
+	}
+
+	return filteredWords
+}
+
+func (w Word) String() string {
+	return fmt.Sprintf("%s: %s\t\t(%s)", w.word, w.meaning, strings.Join(w.tags, ", "))
 }
