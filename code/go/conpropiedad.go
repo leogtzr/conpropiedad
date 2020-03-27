@@ -7,10 +7,7 @@ import (
 	"regexp"
 )
 
-var (
-	dbWords    []Word
-	wordFormat = *regexp.MustCompile(`^.+;.+;.+$`)
-)
+var wordFormat = *regexp.MustCompile(`^.+;.+;.+$`)
 
 func main() {
 	tag := flag.String("tag", "", "tag: the tag to search for ... ")
