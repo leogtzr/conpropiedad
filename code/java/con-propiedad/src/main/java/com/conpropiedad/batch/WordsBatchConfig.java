@@ -46,14 +46,9 @@ public class WordsBatchConfig {
     private String input;
 
     @Bean
-    public String input() {
-        return this.input;
-    }
-
-    @Bean
     public ItemReader<Word> reader() {
         final FlatFileItemReader<Word> reader = new FlatFileItemReader<>();
-        reader.setResource(new FileSystemResource(input()));
+        reader.setResource(new FileSystemResource(this.input));
 
 
         final LineMapper<Word> studentLineMapper = createStudentLineMapper();
@@ -106,7 +101,7 @@ public class WordsBatchConfig {
                 .get("step")
                 .<Word, Word>chunk(10)
                 .reader(reader())
-                .processor(processor())
+                //.processor(processor())
                 .writer(writer())
                 .build();
     }

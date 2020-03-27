@@ -9,6 +9,6 @@ readonly error_missing_jar_file=80
 readonly mvn_default_goals="clean package"
 readonly opts="-Dmaven.test.skip=true -DskipTests --threads 10"
 
-mvn --quiet ${mvn_default_goals} ${opts} 2> /dev/null
+time mvn --quiet ${mvn_default_goals} ${opts} 2> /dev/null
 
 exit

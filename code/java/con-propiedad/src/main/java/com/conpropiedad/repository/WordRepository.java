@@ -8,6 +8,6 @@ import reactor.core.publisher.Flux;
 
 @Repository
 public interface WordRepository extends ReactiveMongoRepository<Word, String> {
-    @Query("{'tags': ?0}")
+    @Query("{ 'tags' : { $regex: ?0 } }")
     Flux<Word> wordsWith(String tag);
 }

@@ -2,6 +2,7 @@ package com.conpropiedad.domain;
 
 import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.core.mapping.MongoId;
 
 import java.util.*;
 
@@ -16,6 +17,7 @@ import static java.util.stream.Collectors.toUnmodifiableList;
 @Document
 public class Word {
 
+    @MongoId
     private String word;
     private String meaning;
     private List<String> tags;

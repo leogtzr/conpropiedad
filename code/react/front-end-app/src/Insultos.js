@@ -32,7 +32,7 @@ class Insultos extends Component {
   render() {
 
     const words = this.state.words.map(w => {
-      return <ul><li>{w.word}: {w.meaning}, tags: <b>[{w.tags.join(", ")}]</b></li></ul>
+      return <ul><li><b><i>{w.word}:</i></b> {w.meaning}    <i>[{w.tags.join(", ")}]</i></li></ul>
     });
 
     return <div>
