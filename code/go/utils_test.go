@@ -131,11 +131,17 @@ func TestEqualTags(t *testing.T) {
 }
 
 func Test_loadInputFile(t *testing.T) {
+
 	seededRand := rand.New(rand.NewSource(time.Now().UnixNano()))
 	randFileName := stringWithCharset(5, charset, seededRand)
 	tmpFilePath := filepath.Join("/tmp", randFileName)
 
 	wordFormatRgx := *regexp.MustCompile(`^.+;.+;.+$`)
+
+	_, err := loadInputFile(tmpFilePath, &wordFormatRgx)
+	if err == nil {
+		t.Errorf("'%s' does not exist, it should have failed to load the file.", tmpFilePath)
+	}
 
 	file, err := os.Create(tmpFilePath)
 	if err != nil {
