@@ -50,8 +50,8 @@ Quillotra: Amiga, amante.@amante,querida,canco
 Rabisalsera: Se aplica a la mujer viva, desenvuelta y descarada.@volada,viva,wila,desenvuelta,fresca
 Rabiza: Ramera muy despreciable.@ramera,puta,putilla,golfa,prostituta,despreciable
 Suripanta: Prostituta.@puta,golfa,prostituta,putilla,ramera
-Taita: Rufián, hombre que explota prostitutas.@pimp,chulo
-Tronera: Persona de vida desordenada, libertina o disipada.@libertino
+Taita: Rufián, hombre que explota prostitutas.@pimp,chulo,rufián
+Tronera: Persona de vida desordenada, libertina o disipada.@libertino,desordenado,sátiro
 Verriondo: Lujurioso, libidinoso.@libidinoso,lujurioso,lascivo,sátiro
 Zarrapastro: Mujer de mal vivir.@wila,viva,fresca
 Zurrona: Mujer perdida.@perdida,volada
@@ -64,13 +64,13 @@ Halconera: mujer provocativa e insinuante.@wila,provocativa,insinuante
 
 
 == De la apariencia física BEGIN ==
-Hadrubado: jorobado.@jorobado
+Hadrubado: jorobado.@jorobado,pipila
 Amondogado: Gordo.@marrano,gordo,fat,cochino
 Aporreado: Dicho de una persona físicamente agotada.@jodido,agotado
 Adán: Hombre sucio, haraposo, desaliñado.@sucio,marrano,cochino,haraposo,harapiento,desaliñado,chamagoso,astroso,mugriento
 Aparrada: Dicho de una persona: achaparrada.
-Apersonado: De mala presencia.
-Ascoroso: asqueroso.
+Apersonado: De mala presencia.@desaliñado,presencia
+Ascoroso: asqueroso.@asqueroso
 Bichicome: persona indigente, que vive de desperdicios.
 Birriosa: de mala calidad o aspecto.
 Bisunto: sucio, sobado, grasiento.

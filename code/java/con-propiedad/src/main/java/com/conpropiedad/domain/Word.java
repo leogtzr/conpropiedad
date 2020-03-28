@@ -20,10 +20,10 @@ public class Word {
     @MongoId
     private String word;
     private String meaning;
-    private List<String> tags;
+    private Set<String> tags;
 
     public void setTags(final String tags) {
-        this.tags = asList(tags.split(",")).stream().distinct().collect(toUnmodifiableList());
+        this.tags = new TreeSet<>(asList(tags.split(",")).stream().distinct().collect(toUnmodifiableList()));
     }
 
     public List<String> getTags() {
