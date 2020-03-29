@@ -5,9 +5,10 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.MongoId;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 import static java.util.Arrays.asList;
-import static java.util.stream.Collectors.toUnmodifiableList;
+import static java.util.stream.Collectors.toUnmodifiableSet;
 
 @Data
 @ToString
@@ -23,7 +24,7 @@ public class Word {
     private Set<String> tags;
 
     public void setTags(final String tags) {
-        this.tags = new TreeSet<>(asList(tags.split(",")).stream().distinct().collect(toUnmodifiableList()));
+        this.tags = new TreeSet<>(asList(tags.split(",")).stream().distinct().collect(toUnmodifiableSet()));
     }
 
     public List<String> getTags() {

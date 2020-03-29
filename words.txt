@@ -71,7 +71,7 @@ Adán: Hombre sucio, haraposo, desaliñado.@sucio,marrano,cochino,haraposo,harap
 Aparrada: Dicho de una persona: achaparrada.
 Apersonado: De mala presencia.@desaliñado,presencia
 Ascoroso: asqueroso.@asqueroso
-Bichicome: persona indigente, que vive de desperdicios.
+Bichicome: persona indigente, que vive de desperdicios.@indigente,jodido,vagabundo
 Birriosa: de mala calidad o aspecto.
 Bisunto: sucio, sobado, grasiento.
 Bodrio: dicho de una persona físicamente desagradable, descuidada, desarreglada o de mal gusto.

@@ -70,7 +70,7 @@ public class WordsBatchConfig {
     }
 
     private FieldSetMapper<Word> createStudentInformationMapper() {
-        BeanWrapperFieldSetMapper<Word> studentInformationMapper = new BeanWrapperFieldSetMapper<>();
+        final BeanWrapperFieldSetMapper<Word> studentInformationMapper = new BeanWrapperFieldSetMapper<>();
         studentInformationMapper.setTargetType(Word.class);
         return studentInformationMapper;
     }
