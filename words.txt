@@ -71,23 +71,23 @@ Adán: Hombre sucio, haraposo, desaliñado.@sucio,marrano,cochino,haraposo,harap
 Aparrada: Dicho de una persona: achaparrada.
 Apersonado: De mala presencia.@desaliñado,presencia
 Ascoroso: asqueroso.@asqueroso
-Bichicome: persona indigente, que vive de desperdicios.@indigente,jodido,vagabundo
-Birriosa: de mala calidad o aspecto.
-Bisunto: sucio, sobado, grasiento.
-Bodrio: dicho de una persona físicamente desagradable, descuidada, desarreglada o de mal gusto.
-Cachiporra: farsante, vanidoso.
-Caima: dicho de una persona o cosa sin gracia.
-Callo: mujer muy fea.
-Carantoña: mujer vieja y fea que se aplica aceites y se compone el rostro para disimular su fealdad.
-Cascado: persona que está muy jodida o traqueteada.
-Catzagua: mugriento, chamagoso, sucio.
-Cermeño: hombre tosco, sucio, necio.
-Choclón: desaliñado, mal vestido.
-Chungo: de mal aspecto, en mal estado o de mala calidad.
-Cuija: Mujer flaca y fea.
-Desandrajado: Andrajoso, desastrado.
-Desapuesto: Desarreglado, de mala disposición y presencia.
-Desaseado: Falto de aseo.
+Bichicome: persona indigente, que vive de desperdicios.@indigente,jodido,vagabundo,errante
+Birriosa: de mala calidad o aspecto.@desaliñada,desaliñado,apariencia
+Bisunto: sucio, sobado, grasiento.@sucio,sobado,grasiento,chamagoso,astroso,pergeñado
+Bodrio: dicho de una persona físicamente desagradable, descuidada, desarreglada o de mal gusto.@desaliñada,desaliñada,sucio,sobado
+Cachiporra: farsante, vanidoso.@vanidoso,farsante,marica
+Caima: dicho de una persona o cosa sin gracia.@payaso,gracia,aguado
+Callo: mujer muy fea.@fea,culera,horrible,gacha,espantosa
+Carantoña: mujer vieja y fea que se aplica aceites y se compone el rostro para disimular su fealdad.@vieja,jodida,fea,culera
+Cascado: persona que está muy jodida o traqueteada.@jodida,traqueteado,jodido
+Catzagua: mugriento, chamagoso, sucio.@mugriento,chamagoso,sucio
+Cermeño: hombre tosco, sucio, necio.@chamagoso,sucio,necio,tosco,hombre
+Choclón: desaliñado, mal vestido.@desaliñado,vestido,aspecto
+Chungo: de mal aspecto, en mal estado o de mala calidad.@desaliñado,desaliñada,vestido,mal aspecto
+Cuija: Mujer flaca y fea.@flaca,fea,culera,escuálida,jodida
+Desandrajado: Andrajoso, desastrado.@andrajoso,andrajosa,vagabundo,jodido,desastrado
+Desapuesto: Desarreglado, de mala disposición y presencia.@desarreglado,presencia,desaliñado,desaliñada
+Desaseado: Falto de aseo.@aseo,desaseado
 Descachalandrado: Desaliñado, andrajoso.
 Descarrachado: persona descuidada o desaliñada.
 Desemejado: Terrible, desfigurado, muy feo.
