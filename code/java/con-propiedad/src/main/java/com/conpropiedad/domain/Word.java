@@ -24,7 +24,9 @@ public class Word {
     private Set<String> tags;
 
     public void setTags(final String tags) {
-        this.tags = new TreeSet<>(asList(tags.split(",")).stream().collect(toUnmodifiableSet()));
+        this.tags = new TreeSet<>(
+                asList(tags.split(",")).stream().map(String::toLowerCase).collect(toUnmodifiableSet())
+        );
     }
 
     public List<String> getTags() {

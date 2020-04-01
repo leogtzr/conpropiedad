@@ -49,8 +49,8 @@ Quillotra;Amiga, amante.;amante,querida,canco
 Rabisalsera;Se aplica a la mujer viva, desenvuelta y descarada.;volada,viva,wila,desenvuelta,fresca
 Rabiza;Ramera muy despreciable.;ramera,puta,putilla,golfa,prostituta,despreciable
 Suripanta;Prostituta.;puta,golfa,prostituta,putilla,ramera
-Taita;Rufián, hombre que explota prostitutas.;pimp,chulo
-Tronera;Persona de vida desordenada, libertina o disipada.;libertino
+Taita;Rufián, hombre que explota prostitutas.;pimp,chulo,rufián
+Tronera;Persona de vida desordenada, libertina o disipada.;libertino,desordenado,sátiro
 Verriondo;Lujurioso, libidinoso.;libidinoso,lujurioso,lascivo,sátiro
 Zarrapastro;Mujer de mal vivir.;wila,viva,fresca
 Zurrona;Mujer perdida.;perdida,volada
@@ -59,7 +59,27 @@ Cachirila;ramera.;puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera
 Coja;prostituta.;puta,prosti,prostituta,sex,zorra,wila,mujerzuela,volada,ramera,piruja
 Encolado;Hombre presumido y afeminado.;maricón,marica,joto,gay
 Halconera;mujer provocativa e insinuante.;wila,provocativa,insinuante
-Hadrubado;jorobado.;jorobado
+Hadrubado;jorobado.;jorobado,pipila
 Amondogado;Gordo.;marrano,gordo,fat,cochino
 Aporreado;Dicho de una persona físicamente agotada.;jodido,agotado
 Adán;Hombre sucio, haraposo, desaliñado.;sucio,marrano,cochino,haraposo,harapiento,desaliñado,chamagoso,astroso,mugriento
+Apersonado;De mala presencia.;desaliñado,presencia
+Ascoroso;asqueroso.;asqueroso
+Bichicome;persona indigente, que vive de desperdicios.;indigente,jodido,vagabundo,errante
+Birriosa;de mala calidad o aspecto.;desaliñada,desaliñado,apariencia
+Bisunto;sucio, sobado, grasiento.;sucio,sobado,grasiento,chamagoso,astroso,pergeñado
+Bodrio;dicho de una persona físicamente desagradable, descuidada, desarreglada o de mal gusto.;desaliñada,desaliñada,sucio,sobado
+Cachiporra;farsante, vanidoso.;vanidoso,farsante,marica
+Caima;dicho de una persona o cosa sin gracia.;payaso,gracia,aguado
+Callo;mujer muy fea.;fea,culera,horrible,gacha,espantosa
+Carantoña;mujer vieja y fea que se aplica aceites y se compone el rostro para disimular su fealdad.;vieja,jodida,fea,culera
+Cascado;persona que está muy jodida o traqueteada.;jodida,traqueteado,jodido
+Catzagua;mugriento, chamagoso, sucio.;mugriento,chamagoso,sucio
+Cermeño;hombre tosco, sucio, necio.;chamagoso,sucio,necio,tosco,hombre
+Choclón;desaliñado, mal vestido.;desaliñado,vestido,aspecto
+Chungo;de mal aspecto, en mal estado o de mala calidad.;desaliñado,desaliñada,vestido,mal aspecto
+Cuija;Mujer flaca y fea.;flaca,fea,culera,escuálida,jodida
+Desandrajado;Andrajoso, desastrado.;andrajoso,andrajosa,vagabundo,jodido,desastrado
+Desapuesto;Desarreglado, de mala disposición y presencia.;desarreglado,presencia,desaliñado,desaliñada
+Desaseado;Falto de aseo.;aseo,desaseado,mugroso,cochino,marrano
+Descachalandrado;Desaliñado, andrajoso.;andrajoso,desaliñada,desaliñado

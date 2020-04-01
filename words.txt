@@ -88,7 +88,7 @@ Cuija: Mujer flaca y fea.@flaca,fea,culera,escuálida,jodida
 Desandrajado: Andrajoso, desastrado.@andrajoso,andrajosa,vagabundo,jodido,desastrado
 Desapuesto: Desarreglado, de mala disposición y presencia.@desarreglado,presencia,desaliñado,desaliñada
 Desaseado: Falto de aseo.@aseo,desaseado,mugroso,cochino,marrano
-Descachalandrado: Desaliñado, andrajoso.@andrajoso,desaliñada,desaliñado
+Descachalandrado: Desaliñado, andrajoso.@andrajoso,desaliñada,desaliñado,descuidado
 Descarrachado: persona descuidada o desaliñada.
 Desemejado: Terrible, desfigurado, muy feo.
 Desguañado: Desarreglado.
