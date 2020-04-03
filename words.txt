@@ -89,10 +89,10 @@ Desandrajado: Andrajoso, desastrado.@andrajoso,andrajosa,vagabundo,jodido,desast
 Desapuesto: Desarreglado, de mala disposición y presencia.@desarreglado,presencia,desaliñado,desaliñada
 Desaseado: Falto de aseo.@aseo,desaseado,mugroso,cochino,marrano
 Descachalandrado: Desaliñado, andrajoso.@andrajoso,desaliñada,desaliñado,descuidado
-Descarrachado: persona descuidada o desaliñada.
-Desemejado: Terrible, desfigurado, muy feo.
-Desguañado: Desarreglado.
-Disforme: Feo, horroroso, monstruoso.
+Descarrachado: persona descuidada o desaliñada.@desaliñado,desaliñado,descuidado,desarreglado
+Desemejado: Terrible, desfigurado, muy feo.@deforme,feo,fea,culero
+Desguañado: Desarreglado.@desaliñado,desaliñada,desarreglado,presencia
+Disforme: Feo, horroroso, monstruoso.@feo,fea,culero,culera,monstruoso,horroroso
 Esperpento: Persona o cosa vieja, desaliñada o de mal aspecto.
 Estantigua: Persona muy alta que viste mal.
 Fardel: persona desarreglada, desaliñada, fodonga.

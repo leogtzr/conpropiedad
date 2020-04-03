@@ -33,8 +33,7 @@ func Test_validateOptions(t *testing.T) {
 	}
 
 	for _, tt := range tests {
-		got := validateOptions(tt.options...)
-		if got != tt.want {
+		if got := validateOptions(tt.options...); got != tt.want {
 			t.Errorf("got=[%t], want=[%t]", got, tt.want)
 		}
 
@@ -54,8 +53,7 @@ func Test_shouldIgnoreLine(t *testing.T) {
 	}
 
 	for _, tt := range tests {
-		got := shouldIgnoreLine(tt.line)
-		if got != tt.want {
+		if got := shouldIgnoreLine(tt.line); got != tt.want {
 			t.Errorf("got=[%t], want=[%t]", got, tt.want)
 		}
 	}
@@ -76,8 +74,7 @@ func Test_isWordFormatValid(t *testing.T) {
 		{input: "", match: false},
 	}
 	for _, tt := range tests {
-		match := isWordFormatValid(tt.input, rgx)
-		if match != tt.match {
+		if match := isWordFormatValid(tt.input, rgx); match != tt.match {
 			t.Errorf("got=[%t], want=[%t] for '%s'", match, tt.match, tt.input)
 		}
 	}
@@ -101,8 +98,7 @@ func Test_extractWordFromText(t *testing.T) {
 	}
 
 	for _, tt := range tests {
-		got := extractWordFromText(tt.wordText)
-		if !equalWords(got, tt.want) {
+		if got := extractWordFromText(tt.wordText); !equalWords(got, tt.want) {
 			t.Errorf("got=[%s], want=[%s]", got, tt.want)
 		}
 	}
@@ -123,8 +119,7 @@ func TestEqualTags(t *testing.T) {
 	}
 
 	for _, tt := range tests {
-		got := equalTags(tt.a, tt.b)
-		if got != tt.result {
+		if got := equalTags(tt.a, tt.b); got != tt.result {
 			t.Errorf("got=[%t], should be [%t]", got, tt.result)
 		}
 	}
@@ -256,8 +251,7 @@ func TestWord_String(t *testing.T) {
 	}
 
 	for _, tt := range tests {
-		got := tt.word.String()
-		if got != tt.want {
+		if got := tt.word.String(); got != tt.want {
 			t.Errorf("got=[%s], want=[%s]", got, tt.want)
 		}
 	}
