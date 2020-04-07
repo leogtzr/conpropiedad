@@ -50,36 +50,35 @@ public class WordsBatchConfig {
         final FlatFileItemReader<Word> reader = new FlatFileItemReader<>();
         reader.setResource(new FileSystemResource(this.input));
 
-
-        final LineMapper<Word> studentLineMapper = createStudentLineMapper();
-        reader.setLineMapper(studentLineMapper);
+        final LineMapper<Word> wordLineMapper = createWordLineMapper();
+        reader.setLineMapper(wordLineMapper);
 
         return reader;
     }
 
-    private LineMapper<Word> createStudentLineMapper() {
-        final DefaultLineMapper<Word> studentLineMapper = new DefaultLineMapper<>();
+    private LineMapper<Word> createWordLineMapper() {
+        final DefaultLineMapper<Word> wordLineMapper = new DefaultLineMapper<>();
 
-        final LineTokenizer studentLineTokenizer = createStudentLineTokenizer();
-        studentLineMapper.setLineTokenizer(studentLineTokenizer);
+        final LineTokenizer wordLineTokenizer = createWordLineTokenizer();
+        wordLineMapper.setLineTokenizer(wordLineTokenizer);
 
-        final FieldSetMapper<Word> studentInformationMapper = createStudentInformationMapper();
-        studentLineMapper.setFieldSetMapper(studentInformationMapper);
+        final FieldSetMapper<Word> wordInformationMapper = createWordInformationMapper();
+        wordLineMapper.setFieldSetMapper(wordInformationMapper);
 
-        return studentLineMapper;
+        return wordLineMapper;
     }
 
-    private FieldSetMapper<Word> createStudentInformationMapper() {
-        final BeanWrapperFieldSetMapper<Word> studentInformationMapper = new BeanWrapperFieldSetMapper<>();
-        studentInformationMapper.setTargetType(Word.class);
-        return studentInformationMapper;
+    private FieldSetMapper<Word> createWordInformationMapper() {
+        final BeanWrapperFieldSetMapper<Word> wordInformationMapper = new BeanWrapperFieldSetMapper<>();
+        wordInformationMapper.setTargetType(Word.class);
+        return wordInformationMapper;
     }
 
-    private LineTokenizer createStudentLineTokenizer() {
-        final DelimitedLineTokenizer studentLineTokenizer = new DelimitedLineTokenizer();
-        studentLineTokenizer.setDelimiter(";");
-        studentLineTokenizer.setNames(new String[]{"word", "meaning", "tags"});
-        return studentLineTokenizer;
+    private LineTokenizer createWordLineTokenizer() {
+        final DelimitedLineTokenizer wordLineTokenizer = new DelimitedLineTokenizer();
+        wordLineTokenizer.setDelimiter(";");
+        wordLineTokenizer.setNames(new String[]{"word", "meaning", "tags"});
+        return wordLineTokenizer;
     }
 
     @Bean
