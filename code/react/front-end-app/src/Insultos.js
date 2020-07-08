@@ -42,7 +42,7 @@ class Insultos extends Component {
       <Form onSubmit={this.handleSubmit}>
         <FormGroup>
           <Label for="name">Keywords</Label>
-          <Input type="text" onChange={this.handleChange} name="name" id="name"/>
+          <Input type="text" onChange={this.handleChange} name="name" id="name" required/>
           </FormGroup>
         <FormGroup>
           <Button color="primary" type="submit">Search</Button>
