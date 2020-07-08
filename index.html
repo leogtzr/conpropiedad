@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="app.css">
+
+  </head>     
+
+  <body>
+
+    <h2>Insultos</h2>
+
+    <p>Start typing:</p>
+
+    <!--Make sure the form has the autocomplete function switched off:-->
+    
+      <div class="autocomplete" style="width:500px;">
+        <input id="myInput" type="text" name="word" placeholder="Search for tags, e.g wila">
+      </div>
+      <input type="button" name="clear" id="clear" onclick="clearInput()" value="Clear"/>
+
+
+    <script src="words.js"></script>
+    <script src="app.js"></script>
+
+  </body>
+</html>
